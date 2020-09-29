@@ -1,0 +1,1060 @@
+Transcript.Accession	Protein.Name	Gene.Name	Accession
+syc0001-h_at	flavodoxin	Synpcc7942_1541	P10340
+syc0003-m_at	panthotenate metabolism flavoprotein	Synpcc7942_1544	Q31MZ5
+syc0005-m_at	similar to C termimus of tlr0652 (putative ribonuclease II)	Synpcc7942_1546	Q31MZ3
+syc0006-h_at	probable amidase	Synpcc7942_1548	Q31MZ1
+syc0008-m_at	DNA polymerase V	Synpcc7942_1550	Q31MY9
+syc0009-m_at	hypothetical protein	Synpcc7942_1551	Q31MY8
+syc0010-h_at	ketol-acid reductoisomerase	Synpcc7942_1552	Q31MY7
+syc0013-m_at	hypothetical protein	Synpcc7942_1555	Q31MY4
+syc0014-m_at	Uncharacterized protein	Synpcc7942_1556	Q31MY3
+syc0015-h_at	group 2 RNA polymerase sigma factor	Synpcc7942_1557	Q31MY2
+syc0017-m_at	hypothetical protein	Synpcc7942_1559	Q31MY0
+syc0023-m_at	hypothetical protein	Synpcc7942_1565	Q31MX4
+syc0029-m_at	dehydrogenase subunit-like protein	Synpcc7942_1572	Q31MW7
+syc0030-m_at	3-oxoacyl-[acyl-carrier protein] reductase	Synpcc7942_1573	Q8KPV3
+syc0031-m_at	probable glucosidase	Synpcc7942_1574	Q31MW5
+syc0032-m_at	MalQ (glycogen debranching enzyme-related protein)	Synpcc7942_1575	Q8KPV1
+syc0033-m_at	putative channel transporter	Synpcc7942_1576	Q8KPV0
+syc0034-h_at	arginyl-tRNA-synthetase	Synpcc7942_1577	Q8KPU9
+syc0037-h_at	hypothetical protein	Synpcc7942_1580	Q31MV9
+syc0043-m_at	two-component sensor histidine kinase	Synpcc7942_1586	Q8KPT8
+syc0044-h_at	hypothetical protein	Synpcc7942_1587	Q8KPT7
+syc0048-h_at	nucleic acid-binding protein  30S ribosomal protein S1-like	Synpcc7942_1591	O33698
+syc0049-m_at	creatinine amidohydrolase	Synpcc7942_1592	O33699
+syc0053-m_at	probable short-chain dehydrogenase	Synpcc7942_1596	Q54767
+syc0054-m_at	GTP cyclohydrolase I	Synpcc7942_1597	Q54769
+syc0061-m_at	hypothetical protein	Synpcc7942_1604	Q31MT5
+syc0065-m_at	mannose-1-phosphate guanylyltransferase	Synpcc7942_1608	Q31MT1
+syc0066-m_at	ribonucleoside triphosphate reductase B	Synpcc7942_1609	Q31MT0
+syc0067-h_at	pyridine nucleotide transhydrogenase beta subunit	Synpcc7942_1610	Q31MS9
+syc0068-h_at	NAD(P) transhydrogenase subunit alpha	Synpcc7942_1611	Q31MS8
+syc0069-h_at	pyridine nucleotide transhydrogenase alpha subunit	Synpcc7942_1612	Q31MS7
+syc0072-m_at	ribonuclease P	Synpcc7942_1615	Q31MS4
+syc0073-m_at	hypothetical protein	Synpcc7942_1616	Q31MS3
+syc0074-m_at	preprotein translocase YidC subunit  60Kd inner membrane protein	Synpcc7942_1617	Q31MS2
+syc0075-m_at	hypothetical protein	Synpcc7942_1618	Q31MS1
+syc0076-m_at	Uncharacterized protein	syc0076_d	Q5N601
+syc0079-h_at	similar to Fe-S oxidoreductase	Synpcc7942_1621	Q31MR8
+syc0081-m_at	Uncharacterized protein	Synpcc7942_1623	Q31MR6
+syc0082-h_at	riboflavin synthase alpha chain	Synpcc7942_1624	Q31MR5
+syc0084-h_at	Uncharacterized protein	Synpcc7942_1626	Q31MR3
+syc0087-m_at	hypothetical protein	Synpcc7942_1628	Q31MR1
+syc0089-m_at	cytochrome c553	Synpcc7942_1630	P25935
+syc0090-m_at	CytB protein	Synpcc7942_1631	Q31MQ8
+syc0093-h_at	hypothetical protein	Synpcc7942_1634	Q31MQ5
+syc0097-m_at	hypothetical protein	Synpcc7942_1460	Q31N79
+syc0101-h_at	malonyl coenzyme A-acyl carrier	Synpcc7942_1456	Q31N83
+syc0102-h_at	3-oxoacyl-[acyl-carrier-protein] synthase III	Synpcc7942_1455	Q31N84
+syc0103-h_at	fatty acid/phospholipid synthesis protein PlsX	Synpcc7942_1454	Q31N85
+syc0110-h_at	carbonic anhydrase	Synpcc7942_1447	P27134
+syc0111-m_at	Uncharacterized protein	Synpcc7942_1446	Q31N93
+syc0112-m_at	Uncharacterized protein	Synpcc7942_1445	Q31N94
+syc0113-h_at	fructose-bisphosphate aldolase class II	Synpcc7942_1443	Q8VW88
+syc0122-m_at	hypothetical protein	Synpcc7942_1434	Q31NA5
+syc0123-h_at	N-acetyl-gamma-glutamyl-phosphate reductase	Synpcc7942_1433	Q31NA6
+syc0125-h_at	peptidyl-prolyl cis-trans isomerase (PPIase) (Rotamase)	Synpcc7942_1431	P29820
+syc0126-m_at	Uncharacterized protein	Synpcc7942_1430	Q31NA9
+syc0129-h_at	ribulose 1,5-bisphosphate carboxylase/oxygenase small subunit	Synpcc7942_1427	Q31NB2
+syc0130-h_at	ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit	Synpcc7942_1426	Q31NB3
+syc0132-h_at	carbon dioxide concentrating mechanism protein CcmN	Synpcc7942_1424	P46204
+syc0133-h_at	carbon dioxide concentrating mechanism protein CcmM, putative carboxysome structural protein	Synpcc7942_1423	Q03513
+syc0134-h_at	carbon dioxide concentrating mechanism protein CcmL, putative carboxysome assembly protein	Synpcc7942_1422	Q03512
+syc0135-h_at	carbon dioxide concentrating mechanism protein CcmK, putative carboxysome assembly protein	Synpcc7942_1421	Q03511
+syc0136-h_at	light-independent protochlorophyllide reductase subunit N	Synpcc7942_1420	P54208
+syc0137-h_at	Light-independent protochlorophyllide reductase subunit L	Synpcc7942_1419	P54207
+syc0138-h_at	hypothetical protein	Synpcc7942_1417	Q31NC2
+syc0140-m_at	NADH dehydrogenase subunit 2	Synpcc7942_1415	P29801
+syc0141-m_at	ATP-binding protein of ABC transporter	Synpcc7942_1414	Q31NC5
+syc0144-m_at	hypothetical protein	Synpcc7942_1412	Q31NC7
+syc0145-m_at	hypothetical protein	Synpcc7942_1411	Q31NC8
+syc0153-m_at	hydroxyacylglutathione hydrolase	Synpcc7942_1403	Q31ND6
+syc0154-h_at	hypothetical protein	Synpcc7942_1402	Q31ND7
+syc0159-h_at	Uncharacterized protein	Synpcc7942_1397	Q31NE2
+syc0160-m_at	hypothetical protein	Synpcc7942_1396	Q31NE3
+syc0165-h_at	competence protein ComM homolog	Synpcc7942_1391	Q31NE8
+syc0166-m_at	protein kinase C inhibitor	Synpcc7942_1390	P32084
+syc0167-m_s_at	photosystem II reaction center D1 protein	Synpcc7942_0893	P04997
+syc0171-m_at	hypothetical protein	Synpcc7942_1385	Q31NF4
+syc0173-m_at	soluble inorganic pyrophosphatase	Synpcc7942_1383	Q31NF6
+syc0177-h_at	high affinity sulfate transporter	Synpcc7942_1380	Q54756
+syc0178-h_at	acetyl-CoA carboxylase, biotin carboxylase subunit	Synpcc7942_1379	Q54755
+syc0179-m_at	hypothetical protein	Synpcc7942_1378	Q31NG1
+syc0181-m_at	Uncharacterized protein	Synpcc7942_1376	Q31NG3
+syc0182-m_at	hypothetical protein	Synpcc7942_1375	Q31NG4
+syc0186-m_at	metal ion transporter, MIT family	Synpcc7942_1371	Q31NG8
+syc0191-m_at	Uncharacterized protein	Synpcc7942_1365	Q31NH4
+syc0192-h_at	Uncharacterized protein	Synpcc7942_1364	Q31NH5
+syc0196-m_at	hypothetical protein	Synpcc7942_1359	Q31NI0
+syc0198-m_at	Uncharacterized protein	syc0197_d	Q5N5N1
+syc0200-m_at	two-component response regulator CheY subfamily	Synpcc7942_1356	Q31NI3
+syc0202-h_at	putative export protein	Synpcc7942_1354	Q31NI5
+syc0211-h_at	NADH dehydrogenase subunit 1	Synpcc7942_1343	Q31NJ6
+syc0212-h_at	GDP-mannose 46-dehydratase	Synpcc7942_1342	Q31NJ7
+syc0214-m_at	polypeptide deformylase	Synpcc7942_1340	Q31NJ9
+syc0215-m_at	hypothetical protein	Synpcc7942_1339	Q31NK0
+syc0217-h_at	hypothetical protein	Synpcc7942_1337	Q31NK2
+syc0218-h_at	Uncharacterized protein	syc0217_c	Q5N5L1
+syc0219-h_at	hypothetical protein	Synpcc7942_1336	Q31NK3
+syc0220-h_at	probable branched-chain amino acid aminotransferase	Synpcc7942_1335	Q31NK4
+syc0226-h_at	hypothetical protein	Synpcc7942_1329	Q31NL0
+syc0229-h_at	replicative DNA helicase	Synpcc7942_1325	Q31NL4
+syc0230-m_at	putative helicase	Synpcc7942_1324	Q31NL5
+syc0232-h_at	photosystem I subunit IV psaE	Synpcc7942_1322	Q31NL7
+syc0233-m_at	hypothetical protein	Synpcc7942_1321	Q31NL8
+syc0237-h_at	manganese transport system ATP-binding protein MntA	Synpcc7942_1317	Q31NM2
+syc0241-h_at	aspartyl-tRNA synthetase	Synpcc7942_1313	Q31NM6
+syc0242-m_at	ATP-binding protein of ABC transporter	Synpcc7942_1312	Q31NM7
+syc0244-h_at	putative ndhF3 operon transcriptional regulator	Synpcc7942_1310	Q9F1R2
+syc0246-h_at	tryptophanyl-tRNA synthetase, hypothetical protein	Synpcc7942_1308	Q31NN1
+syc0250-m_at	Uncharacterized protein	Synpcc7942_1304	Q31NN5
+syc0251-m_at	Uncharacterized protein	Synpcc7942_1303	Q31NN6
+syc0255-m_at	hypothetical protein	Synpcc7942_1299	Q31NP0
+syc0257-h_at	malic enzyme	Synpcc7942_1297	Q31NP2
+syc0258-h_at	hypothetical protein	Synpcc7942_1296	Q31NP3
+syc0259-m_at	hypothetical protein	Synpcc7942_1295	Q31NP4
+syc0261-m_at	phenylalanyl-tRNA synthetase	Synpcc7942_1293	P74764
+syc0264-m_at	SmtA metallothionein	Synpcc7942_1290	P30331
+syc0266-h_at	Uncharacterized protein	Synpcc7942_1288	Q31NQ1
+syc0267-h_at	similar to  S-layer-RTX protein	Synpcc7942_1287	Q31NQ2
+syc0271-m_at	molybdopterin converting factor subunit 2	Synpcc7942_1283	Q56210
+syc0272-m_at	molybdenum cofactor biosynthesis protein A	Synpcc7942_1282	Q56211
+syc0277-m_at	50S ribosomal protein L20	Synpcc7942_1277	Q31NR2
+syc0279-m_at	hypothetical protein	Synpcc7942_1275	Q31NR4
+syc0285-m_at	phosphoglucomutase/phosphomannomutase	Synpcc7942_1268	Q31NS1
+syc0286-m_at	Uncharacterized protein	Synpcc7942_1267	Q31NS2
+syc0287-m_at	hypothetical protein	Synpcc7942_1266	Q31NS3
+syc0294-h_at	putative arsenical pump-driving ATPase	Synpcc7942_1259	Q31NT0
+syc0297-h_at	glutathione S-transferase	Synpcc7942_1256	Q31NT3
+syc0299-h_at	hypothetical protein	Synpcc7942_1254	Q31NT5
+syc0302-m_at	photosystem I reaction center subunit III precursor (PSI-F) plastocyanin (cyt c553) docking protein	Synpcc7942_1250	Q31NT9
+syc0303-m_at	Photosystem I reactionCenter subunit IX	Synpcc7942_1249	Q31NU0
+syc0308-h_at	ABC-2 type transport system ATP-binding protein	Synpcc7942_1244	Q31NU5
+syc0309-m_at	cAMP/cGMP binding protein	Synpcc7942_1243	Q31NU6
+syc0318-h_at	hypothetical protein	Synpcc7942_1234	Q31NV5
+syc0320-m_at	cytochrome b6-f complex iron-sulfur subunit (Rieske iron sulfur protein)	Synpcc7942_1232	Q31NV7
+syc0321-m_at	apocytochrome f  component of cytochrome b6/f complex	Synpcc7942_1231	Q31NV8
+syc0323-m_at	precorrin-4 C11-methyltransferase	Synpcc7942_1229	Q31NW0
+syc0325-m_at	DNA repair protein RadC	Synpcc7942_1227	Q31NW2
+syc0327-m_at	3Z-phycocyanobilin:ferredoxin oxidoreductase	Synpcc7942_1225	Q8KPS9
+syc0329-m_at	ABC transporter permease protein	Synpcc7942_1223	Q8KPS7
+syc0335-m_at	circadian clock protein KaiB	Synpcc7942_1217	Q79PF5
+syc0336-m_at	circadian clock protein KaiC	Synpcc7942_1216	Q79PF4
+syc0339-h_at	virulence associated protein C	Synpcc7942_1213	Q79PF1
+syc0340-m_at	hypothetical protein	Synpcc7942_1212	Q79PF0
+syc0342-m_at	hypothetical protein	Synpcc7942_1210	Q79PE8
+syc0350-m_at	hypothetical protein, similar to glycosyltransferase of PMT family	Synpcc7942_1202	Q31NY7
+syc0354-m_at	dihydrolipoamide dehydrogenase	Synpcc7942_1198	Q31NZ1
+syc0355-m_at	indole-3-glycerol phosphate synthase	Synpcc7942_1197	Q8KPR4
+syc0357-h_at	Uncharacterized protein	Synpcc7942_1195	Q31NZ4
+syc0358-h_at	pyridoxal phosphate biosynthetic protein PdxJ	Synpcc7942_1194	Q8KPR0
+syc0360-m_at	hypothetical protein	Synpcc7942_1192	Q31NZ7
+syc0361-h_at	guanylate kinase	Synpcc7942_1191	Q8KPQ7
+syc0362-m_at	leucine aminopeptidase	Synpcc7942_1190	O06865
+syc0368-h_at	6-pyruvoyl-tetrahydropterin synthase-like protein	Synpcc7942_1184	Q8KPQ0
+syc0370-h_at	NADH dehydrogenase subunit I	Synpcc7942_1182	Q31P07
+syc0373-m_at	rubredoxin	Synpcc7942_1179	Q8KPP5
+syc0374-m_at	photosystem II stability/assembly factor, HCF136-like protein, Ycf48-like protein	Synpcc7942_1178	Q31P11
+syc0375-m_at	PsbE cytochrome b559 alpha chain	Synpcc7942_1177	Q8KPP3
+syc0376-m_at	cytochrome b559 beta chain	Synpcc7942_1176	Q8KPP2
+syc0377-m_at	photosystem II PsbL protein	Synpcc7942_1175	Q8KPP1
+syc0386-h_at	hypothetical protein	Synpcc7942_1166	Q31P23
+syc0388-h_at	Uncharacterized protein	Synpcc7942_1164	Q31P25
+syc0391-h_at	hypothetical protein	Synpcc7942_1161	Q31P28
+syc0392-h_at	hypothetical protein	Synpcc7942_1160	Q31P29
+syc0394-m_at	hypothetical protein	Synpcc7942_1158	Q31P31
+syc0395-h_at	hypothetical protein	Synpcc7942_1157	Q31P32
+syc0396-h_at	hypothetical protein	Synpcc7942_1156	Q31P33
+syc0399-m_at	hypothetical protein	Synpcc7942_1153	Q31P36
+syc0402-m_at	hypothetical protein	Synpcc7942_1150	Q31P39
+syc0403-m_at	dTDP-glucose 46-dehydratase	Synpcc7942_1149	Q31P40
+syc0404-h_at	hypothetical protein	Synpcc7942_1148	Q31P41
+syc0408-h_at	hypothetical protein	Synpcc7942_1144	Q31P45
+syc0410-h_at	methionyl-tRNA synthetase	Synpcc7942_1142	Q31P47
+syc0411-m_at	hypothetical protein	Synpcc7942_1141	Q31P48
+syc0416-m_at	hypothetical protein (ycf23)	Synpcc7942_1137	Q31P52
+syc0417-h_at	aminopeptidase	Synpcc7942_1136	Q31P53
+syc0418-m_at	predicted cation transporter	Synpcc7942_1135	Q31P54
+syc0421-h_at	ferredoxin-thioredoxin reductase variable subunit	Synpcc7942_1131	Q31P58
+syc0423-h_at	hypothetical protein	Synpcc7942_1130	Q31P59
+syc0428-h_at	two-component sensor histidine kinase	Synpcc7942_1125	Q31P64
+syc0429-h_at	ribonuclease II	Synpcc7942_1124	Q31P65
+syc0430-h_at	30S ribosomal protein S18	Synpcc7942_1123	Q31P66
+syc0432-m_at	serine/threonine kinase	Synpcc7942_1121	Q31P68
+syc0436-h_at	hypothetical protein	Synpcc7942_1117	Q31P72
+syc0437-h_at	phosphoglycerate kinase	Synpcc7942_1116	Q31P73
+syc0438-m_at	hypothetical protein	Synpcc7942_1115	Q31P74
+syc0440-m_at	hypothetical protein	Synpcc7942_1113	Q31P76
+syc0441-m_at	ribosomal large subunit pseudouridine synthase D	Synpcc7942_1112	Q31P77
+syc0443-h_at	two-component response regulator, CheY subfamily	Synpcc7942_1110	Q31P79
+syc0445-h_at	DNA binding protein HU	Synpcc7942_1108	Q31P81
+syc0448-m_at	ATP-binding protein involved in chromosome partitioning	Synpcc7942_1105	Q31P84
+syc0449-m_at	cell division protein FtsW	Synpcc7942_1104	Q31P85
+syc0451-h_at	hypothetical protein	Synpcc7942_1102	Q31P87
+syc0454-m_at	ubiquinone/menaquinone biosynthesis methyltransferase	Synpcc7942_1099	Q31P90
+syc0457-m_at	thiamine biosynthesis protein ThiC	Synpcc7942_1096	Q31P93
+syc0458-h_at	hypothetical protein	Synpcc7942_1095	Q31P94
+syc0463-m_at	hypothetical protein	Synpcc7942_1090	Q31P99
+syc0466-h_at	plastocyanin	Synpcc7942_1088	P55020
+syc0467-h_at	hypothetical protein	Synpcc7942_1087	Q31PA2
+syc0468-h_at	uroporphyrinogen decarboxylase	Synpcc7942_1086	P16891
+syc0469-h_at	14-alpha-glucan branching enzyme	Synpcc7942_1085	P16954
+syc0474-h_at	V-type sodium ATP synthase subunit J homolog	Synpcc7942_1080	Q31PA9
+syc0476-h_at	hypothetical protein	Synpcc7942_1078	Q31PB1
+syc0482-h_at	hypothetical protein	Synpcc7942_1073	Q31PB6
+syc0484-m_at	hypothetical protein	Synpcc7942_1071	Q31PB8
+syc0487-h_at	pyruvate dehydrogenase E2 component	Synpcc7942_1068	Q31PC1
+syc0488-h_at	Uncharacterized protein	Synpcc7942_1067	Q31PC2
+syc0489-h_at	hypothetical protein	Synpcc7942_1065	Q31PC4
+syc0490-h_at	type I restriction-modification	Synpcc7942_1064	Q31PC5
+syc0491-h_at	hypothetical protein	Synpcc7942_1063	Q31PC6
+syc0492-h_at	hypothetical protein	Synpcc7942_1062	Q31PC7
+syc0495-h_at	hypothetical protein	Synpcc7942_1059	Q31PD0
+syc0496-h_at	hypothetical protein (YCF40)	Synpcc7942_1058	Q31PD1
+syc0498-h_at	hypothetical protein	Synpcc7942_1056	Q31PD3
+syc0499-h_at	phycocyanin alpha subunit phycocyanobilin lyase, CpcF subunit	Synpcc7942_1055	Q44116
+syc0510-m_at	hypothetical protein	Synpcc7942_1044	Q31PE5
+syc0511-m_at	phytol kinase	Synpcc7942_1043	Q31PE6
+syc0512-h_at	hypothetical protein	Synpcc7942_1042	Q31PE7
+syc0513-h_at	hypothetical protein	Synpcc7942_1040	Q31PE9
+syc0519-h_at	hypothetical protein	Synpcc7942_1034	Q31PF5
+syc0520-h_at	hypothetical protein	Synpcc7942_1033	Q31PF6
+syc0521-h_at	hypothetical protein	Synpcc7942_1032	Q31PF7
+syc0522-h_at	histidinol-phosphate amidotransferase	Synpcc7942_1030	Q31PF9
+syc0523-h_at	branched-chain amino acid aminotransferase	Synpcc7942_1029	Q31PG0
+syc0526-m_at	similar to fibronectin binding protein	Synpcc7942_1026	Q31PG3
+syc0533-h_at	4-alpha-glucanotransferase	Synpcc7942_1019	Q31PH0
+syc0534-h_at	hypothetical protein	Synpcc7942_1018	Q31PH1
+syc0536-m_at	purine-binding chemotaxis protein CheW	Synpcc7942_1016	Q31PH3
+syc0543-m_at	phosphoribosylglycinamide formyltransferase	Synpcc7942_1008	Q31PI1
+syc0545-h_at	hypothetical protein	Synpcc7942_1006	Q31PI3
+syc0550-m_at	aspartate kinase	Synpcc7942_1001	Q31PI8
+syc0561-m_at	hypothetical protein	Synpcc7942_0989	Q31PK0
+syc0572-h_at	ferredoxin-NADP oxidoreductase	Synpcc7942_0978	Q31PL1
+syc0577-h_at	hypothetical protein	Synpcc7942_0972	Q31PL7
+syc0581-h_at	hydroxymethylbilane synthase  porphobilinogen deaminase	Synpcc7942_0967	Q31PM2
+syc0584-h_at	Uncharacterized protein	Synpcc7942_0964	Q31PM5
+syc0585-m_at	probable methyltransferase	Synpcc7942_0963	Q31PM6
+syc0586-m_at	sun protein  tRNA and rRNA cytosine-C5-methylases	Synpcc7942_0962	Q31PM7
+syc0587-h_at	Cell envelope-related transcriptional attenuator	Synpcc7942_0961	Q31PM8
+syc0591-h_at	cob(I) alamin adenosyltransferase	Synpcc7942_0957	Q31PN2
+syc0595-m_at	hypothetical protein	Synpcc7942_0953	Q31PN6
+syc0596-m_at	Uncharacterized protein	Synpcc7942_0952	Q31PN7
+syc0598-m_at	hypothetical protein	Synpcc7942_0950	Q31PN9
+syc0599-m_at	permease protein of sugar ABC transporter	Synpcc7942_0949	Q31PP0
+syc0600-m_at	permease protein of sugar ABC transporter	Synpcc7942_0948	Q31PP1
+syc0601-m_at	glucosylglycerol transport system ATP-binding protein	Synpcc7942_0947	Q31PP2
+syc0606-m_at	cell division protein FtsH	Synpcc7942_0942	Q31PP7
+syc0607-m_at	ATP-binding protein of ABC transporter	Synpcc7942_0941	Q31PP8
+syc0609-h_at	adenylylsulfate kinase	Synpcc7942_0939	Q31PQ0
+syc0615-m_at	Nitrate reductase-related protein	Synpcc7942_0933	Q31PQ6
+syc0618-h_at	(3R)-hydroxymyristol acyl carrier protein dehydrase	Synpcc7942_0930	Q31PQ9
+syc0620-h_at	chloroplastic outer envelope membrane protein homolog	Synpcc7942_0928	Q31PR1
+syc0622-h_at	hypothetical protein	Synpcc7942_0926	Q31PR3
+syc0623-m_at	glycinamide ribonucleotide synthetase	Synpcc7942_0925	Q31PR4
+syc0624-m_at	two-component system histidine kinase, multi-signal sensor	Synpcc7942_0924	Q8RQ68
+syc0625-m_at	5'-methylthioadenosine phosphorylase	Synpcc7942_0923	Q31PR6
+syc0628-m_at	photosystem I reaction center subunit X	Synpcc7942_0920	Q31PR9
+syc0630-h_at	long-chain-fatty-acid CoA ligase	Synpcc7942_0918	Q31PS1
+syc0631-m_at	hypothetical protein	Synpcc7942_0917	Q31PS2
+syc0641-h_at	Uncharacterized protein	Synpcc7942_0907	Q31PT2
+syc0645-h_at	putative hydrolase	Synpcc7942_0901	Q31PT8
+syc0652-m_at	shikimate kinase	Synpcc7942_0894	Q31PU5
+syc0655-h_at	hypothetical protein	Synpcc7942_0891	Q31PU8
+syc0659-m_at	30S ribosomal protein S12	Synpcc7942_0887	P63200
+syc0666-m_at	hypothetical protein	Synpcc7942_0880	Q31PV9
+syc0667-h_at	ribonuclease HII	Synpcc7942_0879	Q31PW0
+syc0668-h_at	ribonuclease E	Synpcc7942_0878	Q31PW1
+syc0670-h_at	alanyl-tRNA synthetase	Synpcc7942_0876	Q31PW3
+syc0681-h_at	hypothetical protein	Synpcc7942_0865	Q31PX4
+syc0684-h_at	hypothetical protein	Synpcc7942_0862	Q31PX7
+syc0685-m_at	hypothetical protein	Synpcc7942_0861	Q31PX8
+syc0686-h_at	hypothetical protein	Synpcc7942_0860	Q31PX9
+syc0687-h_at	two-component hybrid sensor and regulator	Synpcc7942_0859	Q31PY0
+syc0688-h_at	methyl-accepting chemotaxis protein	Synpcc7942_0858	Q31PY1
+syc0689-h_at	hypothetical protein	Synpcc7942_0857	Q31PY2
+syc0690-h_at	two-component response regulator CheY subfamily	Synpcc7942_0856	Q31PY3
+syc0691-h_at	two-component response regulator PatA subfamily	Synpcc7942_0855	Q31PY4
+syc0693-h_at	LL-diaminopimelate aminotransferase	Synpcc7942_0853	Q31PY6
+syc0695-h_at	phosphoribosyl formylglycinamidine cyclo-ligase	Synpcc7942_0851	Q31PY7
+syc0696-m_at	hypothetical protein	Synpcc7942_0850	Q31PY8
+syc0698-m_at	excinuclease ABC subunit A	Synpcc7942_0848	Q31PZ0
+syc0699-m_at	twitching mobility protein	Synpcc7942_0847	Q31PZ1
+syc0703-m_at	Uncharacterized protein	Synpcc7942_0843	Q31PZ5
+syc0706-m_at	hypothetical protein	Synpcc7942_0840	Q31PZ8
+syc0712-h_at	holliday junction DNA helicase RuvB	Synpcc7942_0835	Q31Q03
+syc0713-h_at	hypothetical protein	Synpcc7942_0834	Q31Q04
+syc0714-h_at	conserved hypothetical protein	Synpcc7942_0833	Q31Q05
+syc0718-m_at	hypothetical protein	Synpcc7942_0828	Q31Q09
+syc0720-h_at	hypothetical protein	Synpcc7942_0826	Q31Q11
+syc0724-h_at	permease protein of oligopeptide ABC	Synpcc7942_0822	Q31Q15
+syc0727-h_at	phosphoribosyl formylglycinamidine synthase	Synpcc7942_0819	Q31Q18
+syc0728-h_at	hypothetical protein	Synpcc7942_0818	Q31Q19
+syc0733-h_at	histidyl tRNA synthetase	Synpcc7942_0813	Q55267
+syc0734-h_at	similar to DnaJ protein	Synpcc7942_0812	Q31Q25
+syc0735-h_at	Na+/H+ antiporter	Synpcc7942_0811	Q31Q26
+syc0744-h_at	superoxide dismutase	Synpcc7942_0801	P18655
+syc0745-m_at	phycocyanobilin lyase	Synpcc7942_0800	Q31Q37
+syc0748-h_at	hypothetical protein	Synpcc7942_0796	Q31Q41
+syc0749-m_at	Uncharacterized protein	Synpcc7942_0795	Q31Q42
+syc0750-m_at	similar to chloroplast membrane-associated 30 kD protein	Synpcc7942_0794	Q31Q43
+syc0755-m_at	Uncharacterized protein	Synpcc7942_0789	Q31Q48
+syc0756-m_at	glutathione S-transferase	Synpcc7942_0788	Q31Q49
+syc0758-h_at	hypothetical protein	Synpcc7942_0786	Q31Q51
+syc0760-h_at	Uncharacterized protein	Synpcc7942_0784	Q31Q53
+syc0761-m_at	ATP phosphoribosyltransferase	Synpcc7942_0783	Q31Q54
+syc0764-m_at	serine/threonine kinase	Synpcc7942_0780	Q31Q57
+syc0766-m_at	FolD bifunctional protein	Synpcc7942_0777	Q31Q60
+syc0767-m_at	geranylgeranyl diphosphate synthase	Synpcc7942_0776	Q31Q61
+syc0770-m_at	hypothetical protein YCF52	Synpcc7942_0773	Q31Q64
+syc0773-h_at	hypothetical protein	Synpcc7942_0770	Q31Q67
+syc0774-h_at	hypothetical protein	Synpcc7942_0769	Q31Q68
+syc0775-h_at	hypothetical protein	Synpcc7942_0768	Q31Q69
+syc0780-m_at	Uncharacterized protein	Synpcc7942_0762	Q31Q75
+syc0781-m_at	hypothetical protein	Synpcc7942_0761	Q31Q76
+syc0785-h_at	Uncharacterized protein	Synpcc7942_0755	Q31Q82
+syc0800-h_at	Uncharacterized protein	syc0793_c	Q5N3Y7
+syc0810-h_at	Uncharacterized protein	Synpcc7942_0728	Q31QA9
+syc0822-h_at	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	Synpcc7942_0715	Q31QC2
+syc0823-m_at	N-acetylmuramoyl-L-alanine amidase	Synpcc7942_0714	Q31QC3
+syc0824-m_at	hypothetical protein	Synpcc7942_0713	Q31QC4
+syc0826-h_at	carbamoyl-phosphate synthase pyrimidine-specific large chain	Synpcc7942_0711	Q31QC6
+syc0829-h_at	hypothetical protein, predicted unusual protein kinase	Synpcc7942_0708	Q31QC9
+syc0831-m_at	precorrin decarbocylase	Synpcc7942_0706	Q31QD1
+syc0832-h_at	hypothetical protein	Synpcc7942_0705	Q31QD2
+syc0833-h_at	acetyltransferase	Synpcc7942_0704	Q31QD3
+syc0834-h_at	hypothetical protein	Synpcc7942_0703	Q31QD4
+syc0839-h_at	probable ferredoxin	Synpcc7942_0698	Q31QD9
+syc0849-h_at	hypothetical protein	Synpcc7942_0687	Q31QF0
+syc0850-h_at	hypothetical protein	Synpcc7942_0686	Q31QF1
+syc0852-h_at	3-oxoacyl-[acyl-carrier protein] reductase	Synpcc7942_0684	Q31QF3
+syc0856-h_at	similar to sterol C5-desaturase	Synpcc7942_0680	Q31QF7
+syc0857-h_at	RRM-type RNA-binding protein	Synpcc7942_0679	Q31QF8
+syc0858-h_at	probable ribonuclease D	Synpcc7942_0678	Q31QF9
+syc0859-m_at	circadian period extender gene,  Transcription factor PadR family	Synpcc7942_0677	Q31QG0
+syc0861-m_at	hypothetical protein	Synpcc7942_0675	Q31QG2
+syc0862-h_at	coproporphyrinogen III oxidase	Synpcc7942_0674	Q31QG3
+syc0864-h_at	group2 RNA polymerase sigma factor RpoD3	Synpcc7942_0672	Q31QG5
+syc0867-h_at	N-methylpurine-DNA glycosirase	Synpcc7942_0669	Q31QG8
+syc0868-h_at	hypothetical protein	Synpcc7942_0667	Q31QH0
+syc0873-h_at	hypothetical protein	Synpcc7942_0662	Q31QH5
+syc0876-m_at	hypothetical protein, carboxyl-terminal protease	Synpcc7942_0659	Q31QH8
+syc0878-m_at	hypothetical protein	Synpcc7942_0658	Q31QH9
+syc0879-m_at	hypothetical protein	Synpcc7942_0657	Q31QI0
+syc0887-m_at	principal RNA polymerase sigma factor RpoD1	Synpcc7942_0649	P38023
+syc0888-h_at	hypothetical protein	Synpcc7942_0647	Q31QJ0
+syc0889-h_at	glutamate-1-semialdehyde aminomutase  (glutamate-1-semialdehyde aminotransferase)	Synpcc7942_0645	Q31QJ2
+syc0890-h_at	two-component sensor kinase	Synpcc7942_0644	Q9KHI5
+syc0894-h_at	enolase	Synpcc7942_0639	Q31QJ8
+syc0895-m_at	lactoylglutathione lyase	Synpcc7942_0638	Q31QJ9
+syc0899-m_at	50S ribosomal protein L11	Synpcc7942_0634	Q31QK3
+syc0902-m_at	50S ribosomal protein L12	Synpcc7942_0631	Q31QK6
+syc0903-h_at	hypothetical protein	Synpcc7942_0630	Q31QK7
+syc0906-h_at	dihydroxyacid dehydratase	Synpcc7942_0626	Q31QL1
+syc0908-h_at	hypothetical protein YCF45	Synpcc7942_0625	Q31QL2
+syc0910-h_at	thioredoxin reductase	Synpcc7942_0623	Q31QL4
+syc0912-h_at	Uncharacterized protein	Synpcc7942_0621	Q31QL6
+syc0915-h_at	adenosylhomocysteinase	Synpcc7942_0618	Q31QL9
+syc0919-m_at	hypothetical protein	Synpcc7942_0614	Q31QM3
+syc0920-m_at	hypothetical protein	Synpcc7942_0613	Q31QM4
+syc0921-m_at	citrate synthase	Synpcc7942_0612	Q31QM5
+syc0923-h_at	hypothetical protein	Synpcc7942_0610	Q8VPU8
+syc0924-h_at	NADPH dehydrogenase subunit 4	Synpcc7942_0609	Q8VPU9
+syc0933-m_at	transcriptional regulator,  TetR/AcrR family	Synpcc7942_0599	Q31QN8
+syc0934-h_at	putative peptidase	Synpcc7942_0598	Q31QN9
+syc0937-m_at	hypothetical protein	Synpcc7942_0595	Q31QP2
+syc0938-m_at	hypothetical protein	Synpcc7942_0594	Q31QP3
+syc0939-m_at	hypothetical protein	Synpcc7942_0593	Q31QP4
+syc0942-h_at	hypothetical protein	Synpcc7942_0590	Q31QP7
+syc0943-h_at	hypothetical protein	Synpcc7942_0589	Q31QP8
+syc0947-m_at	protease	Synpcc7942_0585	Q31QQ2
+syc0948-m_at	ribose 5-phosphate isomerase	Synpcc7942_0584	Q31QQ3
+syc0949-h_at	Magnesium protoporphyrin IX chelatase subunit I	Synpcc7942_0583	Q31QQ4
+syc0951-m_at	hypothetical protein	Synpcc7942_0581	Q31QQ6
+syc0953-h_at	sulfolipid sulfoquinovosyldiacylglycerol biosynthesis protein	Synpcc7942_0579	Q9R6U1
+syc0954-h_at	sulfolipid biosynthesis protein	Synpcc7942_0578	Q54734
+syc0959-m_at	hypothetical protein	Synpcc7942_0572	Q31QR5
+syc0962-m_at	group2 RNA polymerase sigma factor RpoD4	Synpcc7942_0569	Q31QR8
+syc0963-m_at	cytosine deaminase	Synpcc7942_0568	Q31QR9
+syc0964-m_at	hypothetical protein	Synpcc7942_0567	Q31QS0
+syc0966-h_at	hypothetical protein	Synpcc7942_0565	Q31QS2
+syc0974-m_at	two-component response regulator  OmpR family	Synpcc7942_0556	Q31QT1
+syc0976-h_at	probable GTP binding protein	Synpcc7942_0554	Q31QT3
+syc0978-h_at	UDP-N-acetylglucosamine 2-epimerase	Synpcc7942_0552	Q31QT5
+syc0979-h_at	hypothetical protein	Synpcc7942_0551	Q31QT6
+syc0982-m_at	hypothetical protein	Synpcc7942_0548	Q31QT9
+syc0984-h_at	Na+/H+ antiporter	Synpcc7942_0546	Q6VYY4
+syc0986-h_at	hypothetical protein	Synpcc7942_0544	Q31QU3
+syc0992-h_at	transketolase	Synpcc7942_0538	Q31QU9
+syc0993-h_at	3-oxoacyl-[acyl-carrier-protein] synthase II	Synpcc7942_0537	Q31QV0
+syc0994-h_at	acyl carrier protein	Synpcc7942_0536	Q31QV1
+syc0996-m_at	L-glutamine:D-fructose-6-P amidotransferase	Synpcc7942_0534	Q31QV3
+syc0998-m_at	hypothetical protein	Synpcc7942_0532	Q31QV5
+syc1001-h_at	6-phosphogluconolactonase	Synpcc7942_0529	Q31QV8
+syc1003-m_at	Uncharacterized protein	Synpcc7942_0527	Q31QW0
+syc1004-h_at	permease protein of sugar ABC transporter	Synpcc7942_0526	Q31QW1
+syc1005-m_at	hypothetical protein	Synpcc7942_0525	Q31QW2
+syc1008-h_at	hypothetical protein	Synpcc7942_0521	Q31QW6
+syc1009-h_at	hypothetical protein	Synpcc7942_0520	Q31QW7
+syc1021-h_at	hypothetical protein	Synpcc7942_0508	Q31QX9
+syc1022-h_at	ribosome recycling factor	Synpcc7942_0507	Q31QY0
+syc1023-h_at	hypothetical protein	Synpcc7942_0506	Q31QY1
+syc1024-m_at	fructose-1,6-/sedoheptulose-1,7-bisphosphatase	Synpcc7942_0505	Q31QY2
+syc1030-m_at	hypothetical protein	Synpcc7942_0499	Q31QY8
+syc1031-h_at	mannose-1-phosphate guanyltransferase	Synpcc7942_0498	Q31QY9
+syc1032-m_at	hypothetical protein	Synpcc7942_0497	Q31QZ0
+syc1036-h_at	hypothetical protein	Synpcc7942_0493	Q31QZ4
+syc1038-h_at	hypothetical protein	Synpcc7942_0490	Q31QZ7
+syc1040-h_at	hypothetical protein	Synpcc7942_0488	Q31QZ9
+syc1043-h_at	phosphoglycerate mutase	Synpcc7942_0485	Q31R02
+syc1044-m_at	hypothetical protein	Synpcc7942_0484	Q31R03
+syc1045-m_at	Uncharacterized protein	Synpcc7942_0483	Q31R04
+syc1046-m_at	penicillin-binding protein	Synpcc7942_0482	Q31R05
+syc1047-h_at	protease	Synpcc7942_0481	Q31R06
+syc1048-h_at	two-component hybrid sensor and regulator	Synpcc7942_0480	Q31R07
+syc1049-m_at	GTP-binding protein	Synpcc7942_0479	Q31R08
+syc1050-m_at	signal peptidase I	Synpcc7942_0478	Q31R09
+syc1052-h_at	hypothetical protein	Synpcc7942_0476	Q31R11
+syc1053-m_at	cytochrome b6-f complex subunit VIII	Synpcc7942_0475	Q31R12
+syc1054-h_at	similar to xenobiotic reductase	Synpcc7942_0473	Q31R14
+syc1055-h_at	hypothetical protein	Synpcc7942_0472	Q31R15
+syc1057-h_at	Uncharacterized protein	Synpcc7942_0470	Q31R17
+syc1059-m_at	phosphoglycerate mutase	Synpcc7942_0469	Q31R18
+syc1060-m_at	protein-export membrane protein  preprotein translocase SecG subunit	Synpcc7942_0468	Q8GMT4
+syc1063-m_at	hypothetical protein	Synpcc7942_0465	Q31R22
+syc1064-m_at	hypothetical protein	Synpcc7942_0464	Q8GMT0
+syc1065-m_at	low molecular weight phosphotyrosine protein phosphatase	Synpcc7942_0463	Q31R24
+syc1070-m_at	putative esterase	Synpcc7942_0458	Q31R29
+syc1071-h_at	Uncharacterized protein	Synpcc7942_0457	Q8GMS3
+syc1076-m_at	conserved hypothetical protein	Synpcc7942_0452	Q31R35
+syc1077-h_at	esterase	Synpcc7942_0451	Q8GMR9
+syc1078-m_at	putative NifU-like protein	Synpcc7942_0450	Q8GMR8
+syc1079-m_at	seryl-tRNA synthetase	Synpcc7942_0449	Q8GMR7
+syc1080-m_at	hypothetical protein	Synpcc7942_0448	Q31R39
+syc1086-h_at	ammonium/methylammonium permease	Synpcc7942_0442	Q31R45
+syc1089-m_at	S-adenosylmethionine--Mg-protoporphyrin IX methyltransferase	Synpcc7942_0439	Q31R48
+syc1092-h_at	hypothetical protein	Synpcc7942_0435	Q31R52
+syc1093-h_at	hypothetical protein	Synpcc7942_0434	Q8GMQ6
+syc1094-h_at	Uncharacterized protein	Synpcc7942_0433	Q8GMQ5
+syc1097-h_at	1-deoxyxylulose-5-phosphate synthase	Synpcc7942_0430	Q8GAA0
+syc1098-m_at	Uncharacterized protein	Synpcc7942_0429	Q31R58
+syc1100-m_at	ATP-binding protein of ABC transporter	Synpcc7942_0427	Q8GMQ4
+syc1101-m_at	hypothetical protein	Synpcc7942_0426	Q8GMQ3
+syc1103-h_at	photosystem II reaction center D1 protein	Synpcc7942_0424	P04996
+syc1104-m_at	hypothetical protein	Synpcc7942_0423	Q31R64
+syc1105-h_at	Uncharacterized protein	Synpcc7942_0422	Q31R65
+syc1106-m_at	glutathione S-transferase	Synpcc7942_0421	Q31R66
+syc1108-m_at	hypothetical protein	Synpcc7942_0420	Q31R67
+syc1109-m_at	biotin synthetase	Synpcc7942_0419	Q31R68
+syc1111-h_at	hypothetical protein	Synpcc7942_0418	Q31R69
+syc1112-h_at	hypothetical protein	Synpcc7942_0417	Q31R70
+syc1114-m_at	hypothetical protein	Synpcc7942_0415	Q31R72
+syc1118-m_at	tryptophan synthase alpha chain	Synpcc7942_0411	Q31R76
+syc1119-m_at	hypothetical protein	Synpcc7942_0410	Q31R77
+syc1121-m_at	photosystem I reaction center subunit X	Synpcc7942_0407	Q31R80
+syc1122-h_at	hypothetical protein	Synpcc7942_0406	Q31R81
+syc1124-m_at	peptide chain release factor 2	Synpcc7942_0404	Q31R83
+syc1128-m_at	hypothetical protein	Synpcc7942_0399	Q31R88
+syc1129-h_at	hypothetical protein	Synpcc7942_0398	Q31R89
+syc1131-h_at	phosphoribosyl aminoimidazole carboxy formyl formyltransferase/inosinemonophosphate cyclohydrolase (PUR-H(J))	Synpcc7942_0396	Q31R91
+syc1132-h_at	hypothetical protein	Synpcc7942_0395	Q31R92
+syc1133-m_at	phosphatidate cytidylyltransferase	Synpcc7942_0394	Q31R93
+syc1134-h_at	hypothetical protein	Synpcc7942_0393	Q31R94
+syc1136-m_at	hypothetical protein	Synpcc7942_0391	Q31R96
+syc1137-m_at	chromate transport protein	Synpcc7942_0390	Q31R97
+syc1138-m_at	probable glycosyltransferase	Synpcc7942_0388	Q31R99
+syc1140-h_at	hypothetical protein	Synpcc7942_0386	Q31RA1
+syc1141-m_at	geranylgeranyl hydrogenase	Synpcc7942_0385	Q31RA2
+syc1143-m_at	hypothetical protein	Synpcc7942_0383	Q31RA4
+syc1144-m_at	hypothetical protein	Synpcc7942_0382	Q31RA5
+syc1145-m_at	hypothetical protein	Synpcc7942_0381	Q31RA6
+syc1146-h_at	hypothetical protein	Synpcc7942_0380	Q31RA7
+syc1148-h_at	hypothetical protein YCF63  putative ABC transporter permease protein	Synpcc7942_0378	Q31RA9
+syc1149-m_at	hypothetical protein	Synpcc7942_0377	Q31RB0
+syc1150-m_at	putative zinc protease protein	Synpcc7942_0376	Q31RB1
+syc1151-m_at	processing protease	Synpcc7942_0375	Q31RB2
+syc1152-m_at	hypothetical protein	Synpcc7942_0373	Q31RB4
+syc1154-h_at	homoserine O-succinyltransferase	Synpcc7942_0371	Q31RB6
+syc1155-h_at	O-acetylhomoserine (thiol)-lyase	Synpcc7942_0370	Q31RB7
+syc1156-h_at	putative flavin-containing monoamine oxidase	Synpcc7942_0369	Q31RB8
+syc1158-m_at	bile acid:Na+ symporter, BASS family	Synpcc7942_0367	Q31RC0
+syc1163-h_at	hypothetical protein	Synpcc7942_0362	Q31RC5
+syc1166-h_at	hypothetical protein	Synpcc7942_0359	Q31RC8
+syc1170-m_at	ribosome binding factor A	Synpcc7942_0355	Q31RD2
+syc1172-h_at	bile acid:Na+ symporter, BASS family	Synpcc7942_0353	Q31RD4
+syc1173-m_at	hypothetical protein	Synpcc7942_0352	Q31RD5
+syc1176-m_at	hypothetical protein	Synpcc7942_0349	Q31RD8
+syc1177-m_at	RecA gene product	Synpcc7942_0348	Q31RD9
+syc1178-h_at	hypothetical protein	Synpcc7942_0347	Q31RE0
+syc1182-h_at	photosystem II Psb27 protein	Synpcc7942_0343	Q31RE4
+syc1183-h_at	hypothetical protein	Synpcc7942_0342	Q31RE5
+syc1184-h_at	Uncharacterized protein	Synpcc7942_0341	Q31RE6
+syc1186-h_at	hypothetical protein	Synpcc7942_0339	Q31RE8
+syc1187-h_at	ferredoxin petF-like protein	Synpcc7942_0338	Q31RE9
+syc1188-h_at	F-type H+-transporting ATPase gamma chain	Synpcc7942_0337	Q31RF0
+syc1189-h_at	ATP synthase alpha chain of F1	Synpcc7942_0336	Q31RF1
+syc1190-h_at	ATP synthase delta chain of F1	Synpcc7942_0335	Q31RF2
+syc1191-h_at	ATP synthase B chain, H+-transporting two-sector ATPase chain b	Synpcc7942_0334	Q31RF3
+syc1192-h_at	ATP synthase subunit b'	Synpcc7942_0333	Q31RF4
+syc1193-h_at	ATP synthase c chain of Fo	Synpcc7942_0332	Q31RF5
+syc1194-h_at	ATP synthase a chain of Fo	Synpcc7942_0331	Q31RF6
+syc1195-h_at	ATP synthase protein I	Synpcc7942_0330	Q31RF7
+syc1196-h_at	hypothetical protein	Synpcc7942_0329	Q31RF8
+syc1209-m_at	hypothetical protein	Synpcc7942_0316	Q31RH1
+syc1213-m_at	hypothetical protein	Synpcc7942_0312	Q31RH5
+syc1214-m_at	dimethyladenosine transferase	Synpcc7942_0311	Q31RH6
+syc1216-m_at	NADH dehydrogenase subunit 5	Synpcc7942_0309	Q8VPV4
+syc1217-m_at	CO2 hydration protein	Synpcc7942_0308	Q8VPV3
+syc1218-m_at	Na+/H+ antiporter	Synpcc7942_0307	Q8VPV2
+syc1220-h_at	hypothetical protein	Synpcc7942_0304	Q31RI3
+syc1221-h_at	probable potassium channel protein	Synpcc7942_0303	Q31RI4
+syc1222-m_at	hypothetical protein, DNA uptake protein and related DNA-binding proteins	Synpcc7942_0302	Q31RI5
+syc1224-m_at	rod shape-determining protein MreB	Synpcc7942_0300	Q31RI7
+syc1226-m_at	hypothetical protein	Synpcc7942_0298	Q31RI9
+syc1227-h_at	cell division protein FtsH	Synpcc7942_0297	Q31RJ0
+syc1229-h_at	sulfate adenylyltransferase	Synpcc7942_0295	Q31RJ2
+syc1230-h_at	photosystem II manganese-stabilizing polypeptide	Synpcc7942_0294	P11472
+syc1231-m_at	hypothetical protein	Synpcc7942_0293	Q31RJ4
+syc1233-h_at	hypothetical protein	Synpcc7942_0291	Q31RJ6
+syc1235-h_at	preprotein translocase SecA subunit	Synpcc7942_0289	Q55357
+syc1236-m_at	UDP-N-acetylglucosamine pyrophosphorylase	Synpcc7942_0288	Q31RJ9
+syc1238-h_at	hypothetical protein	Synpcc7942_0286	Q31RK1
+syc1239-h_at	carbon dioxide concentrating mechanism protein CcmK	Synpcc7942_0285	Q31RK2
+syc1240-h_at	carbon dioxide concentrating mechanism protein ccmK	Synpcc7942_0284	Q31RK3
+syc1244-m_at	probable glycosyltransferase	Synpcc7942_0281	Q31RK6
+syc1246-h_at	NADH dehydrogenase I chain F	Synpcc7942_0279	Q31RK8
+syc1247-h_at	NADH dehydrogenase I chain E	Synpcc7942_0278	Q31RK9
+syc1249-m_at	glycolate dehydrogenase	Synpcc7942_0276	Q31RL1
+syc1253-h_at	Uroporphyrinogen III synthase	Synpcc7942_0272	P42452
+syc1255-h_at	probable glycosyltransferase	Synpcc7942_0270	P42460
+syc1256-m_at	hypothetical protein	Synpcc7942_0269	Q31RL8
+syc1258-h_at	glucose inhibited division protein B	Synpcc7942_0267	Q31RM0
+syc1266-h_at	Uncharacterized protein	Synpcc7942_0259	Q31RM8
+syc1267-h_at	hypothetical protein	Synpcc7942_0258	Q31RM9
+syc1269-h_at	N-acyl-L-amino acid amidohydrolase	Synpcc7942_0256	Q31RN1
+syc1271-h_at	DNA gyrase A subunit	Synpcc7942_0254	Q31RN3
+syc1276-h_at	ATP-binding subunit of the ABC-type Bgt permease for basic amino acids and glutamine	Synpcc7942_0249	Q31RN8
+syc1279-h_at	periplasmic substrate-binding and integral membrane protein of the ABC-type Bgt permease for basic amino acids and glutamine BgtB	Synpcc7942_0247	Q31RP0
+syc1281-m_at	glyceraldehyde 3-phosphate dehydrogenase	Synpcc7942_0245	Q31RP2
+syc1282-m_at	glycogen phosphorylase	Synpcc7942_0244	Q31RP3
+syc1283-m_at	possible high light inducible polypeptide HliC, CAB/ELIP/HLIP superfamily	Synpcc7942_0243	Q31RP4
+syc1286-m_at	allophycocyanin alpha-B subunit	Synpcc7942_0240	Q31RP7
+syc1287-m_at	cytochrome C6 soluble cytochrome f	Synpcc7942_0239	Q31RP8
+syc1290-h_at	Cyclic nucleotide-binding domain (CNMP-BD) protein	Synpcc7942_0236	Q31RQ1
+syc1294-m_at	3-phosphoshikimate 1-carboxyvinyltransferase	Synpcc7942_0232	Q31RQ5
+syc1295-m_at	putative acetyltransferase	Synpcc7942_0231	Q31RQ6
+syc1297-h_at	hypothetical protein	Synpcc7942_0229	Q31RQ8
+syc1298-h_at	hypothetical protein	Synpcc7942_0228	Q31RQ9
+syc1299-h_at	peptidyl-tRNA hydrolase	Synpcc7942_0227	Q31RR0
+syc1308-h_at	hypothetical protein	Synpcc7942_0217	Q31RS0
+syc1310-m_at	hypothetical protein	Synpcc7942_0215	Q31RS2
+syc1311-h_at	hypothetical protein	Synpcc7942_0214	Q31RS3
+syc1312-m_at	Uncharacterized protein	Synpcc7942_0213	Q31RS4
+syc1322-m_at	cb-type cytochrome c oxidase subunit I	Synpcc7942_0202	Q31RT5
+syc1323-m_at	hypothetical protein	Synpcc7942_0201	Q31RT6
+syc1324-m_at	hypothetical protein	Synpcc7942_0200	Q31RT7
+syc1325-m_at	hypothetical protein	Synpcc7942_0199	Q31RT8
+syc1326-m_at	type 2 NADH dehydrogenase	Synpcc7942_0198	Q31RT9
+syc1327-m_at	hypothetical protein	Synpcc7942_0197	O68867
+syc1328-m_at	lignostilbene-alpha, beta-dioxygenase of Synechococcus PCC7942	Synpcc7942_0196	Q31RU1
+syc1333-h_at	soluble hydrogenase 42 kD subunit  DHSS	Synpcc7942_0191	Q31RU6
+syc1340-h_at	Uncharacterized protein	Synpcc7942_0183	Q31RV4
+syc1352-h_at	Uncharacterized protein	Synpcc7942_0168	Q31RW9
+syc1355-h_at	hypothetical protein	Synpcc7942_0164	Q31RX3
+syc1358-h_at	hypothetical protein	Synpcc7942_0161	Q31RX6
+syc1359-h_at	GTP-binding protein ERA homolog	Synpcc7942_0160	Q31RX7
+syc1362-m_at	Uncharacterized protein	Synpcc7942_0157	Q31RY0
+syc1363-m_at	phosphoglucomutase	Synpcc7942_0156	Q31RY1
+syc1365-m_at	hypothetical protein	Synpcc7942_0153	Q31RY4
+syc1370-h_at	hypothetical protein	Synpcc7942_0148	Q31RY9
+syc1371-m_at	Uncharacterized protein	Synpcc7942_0147	Q31RZ0
+syc1375-m_at	pyruvate dehydrogenase E1 component beta subunit	Synpcc7942_0143	Q31RZ4
+syc1376-m_at	protein-export membrane protein SecD	Synpcc7942_0142	Q31RZ5
+syc1379-h_at	acetolactate synthase	Synpcc7942_0139	Q31RZ8
+syc1380-h_at	probable peptidase	Synpcc7942_0138	Q31RZ9
+syc1386-m_at	hypothetical protein	Synpcc7942_0132	Q31S05
+syc1389-h_at	hypothetical protein	Synpcc7942_0128	Q31S09
+syc1391-m_at	enoyl-[acyl-carrier-protein] reductase	Synpcc7942_0126	Q31S11
+syc1392-m_at	imidazoleglycerol-phosphate dehydratase	Synpcc7942_0125	Q31S12
+syc1393-m_at	similar to thiol methyltransferase 1	Synpcc7942_0124	Q31S13
+syc1399-h_at	glutamyl-tRNA(Gln) amidotransferase subunit B	Synpcc7942_0118	Q31S19
+syc1403-h_at	hypothetical protein	Synpcc7942_0114	Q31S23
+syc1406-h_at	hypothetical protein	Synpcc7942_0110	Q31S27
+syc1407-h_at	probable DNA-binding stress protein	Synpcc7942_0109	Q31S28
+syc1415-h_at	hypothetical protein	Synpcc7942_0102	Q31S35
+syc1416-h_at	type 2 NADH dehydrogenase	Synpcc7942_0101	Q31S36
+syc1417-m_at	hypothetical protein	Synpcc7942_0100	Q31S37
+syc1419-m_at	pyruvate kinase	Synpcc7942_0098	Q31S39
+syc1421-m_at	hypothetical protein	Synpcc7942_0096	Q31S41
+syc1422-m_at	two-component response regulator (OmpR subfamily)	Synpcc7942_0095	Q31S42
+syc1425-m_at	hypothetical protein	Synpcc7942_0092	Q31S45
+syc1430-m_at	hypothetical protein	Synpcc7942_0087	Q31S50
+syc1431-m_at	glycogen operon protein GlgX homolog	Synpcc7942_0086	Q31S51
+syc1432-m_at	hypothetical protein	Synpcc7942_0085	Q31S52
+syc1434-h_at	hypothetical protein	Synpcc7942_0083	Q54732
+syc1435-h_at	ATP-binding protein of ABC transporter	Synpcc7942_0082	Q31S55
+syc1437-m_at	probable ABC transporter permease protein	Synpcc7942_0080	Q31S57
+syc1438-m_at	hypothetical protein YCF41	Synpcc7942_0079	Q31S58
+syc1443-m_at	Uncharacterized protein	Synpcc7942_0074	Q31S63
+syc1445-m_at	hypothetical protein	Synpcc7942_0072	Q31S65
+syc1446-m_at	pleiotropic regulatory protein homolog	Synpcc7942_0071	Q31S66
+syc1448-m_at	ATP-binding protein of ABC transporter	Synpcc7942_0068	Q31S69
+syc1451-m_at	initiation factor IF-3	Synpcc7942_0065	Q31S72
+syc1455-m_at	dTDP-4-dehydrorhamnose 35-epimerase	Synpcc7942_0058	Q31S79
+syc1465-h_at	hypothetical protein	Synpcc7942_0047	Q31S90
+syc1466-h_at	hypothetical protein	Synpcc7942_0046	Q31S91
+syc1468-h_at	hypothetical protein	Synpcc7942_0044	Q31S93
+syc1470-m_at	50S ribosomal protein L28	Synpcc7942_0042	Q31S95
+syc1471-h_at	probable transport protein	Synpcc7942_0041	Q31S96
+syc1472-h_at	dihydroneopterin aldolase	Synpcc7942_0040	Q31S97
+syc1473-h_at	6-phosphogluconate dehydrogenase	Synpcc7942_0039	P21577
+syc1474-h_at	mutator MutT protein	Synpcc7942_0038	Q31S99
+syc1475-h_at	hypothetical protein	Synpcc7942_0036	Q31SA1
+syc1476-m_at	Uncharacterized protein	Synpcc7942_0035	Q31SA2
+syc1477-m_at	hypothetical protein	Synpcc7942_0033	Q31SA4
+syc1478-m_at	hypothetical protein	Synpcc7942_0032	Q31SA5
+syc1480-h_at	N-acetylornithine aminotransferase	Synpcc7942_0031	Q31SA6
+syc1488-m_at	H+/Ca2+ exchanger	Synpcc7942_0023	Q31SB4
+syc1489-m_at	hypothetical protein	Synpcc7942_0022	Q31SB5
+syc1492-h_at	ferredoxin-sulfite reductase	Synpcc7942_0019	P30008
+syc1497-m_at	hypothetical protein	Synpcc7942_0014	Q31SC3
+syc1498-h_at	Uncharacterized protein	Synpcc7942_0013	Q31SC4
+syc1500-m_at	Uncharacterized protein	Synpcc7942_0011	Q31SC6
+syc1502-h_at	argininosuccinate synthetase	Synpcc7942_0009	Q31SC8
+syc1506-m_at	hypothetical protein	Synpcc7942_0005	Q31SD2
+syc1507-h_at	amidophosphoribosyltransferase	Synpcc7942_0004	Q55038
+syc1508-h_at	phosphoribosylformyl glycinamidine synthetase II	Synpcc7942_0003	Q55041
+syc1509-h_at	RNA metabolism-related protein  conserved hypothetical protein	Synpcc7942_0002	Q31SD5
+syc1510-h_at	DNA polymerase III beta subunit	Synpcc7942_0001	P52023
+syc1512-h_at	threonine synthase	Synpcc7942_2612	Q31JX7
+syc1515-h_at	hypothetical protein	Synpcc7942_2609	Q31JY0
+syc1516-h_at	Uncharacterized protein	Synpcc7942_2608	Q31JY1
+syc1517-m_at	exodeoxyribonuclease III	Synpcc7942_2607	Q31JY2
+syc1518-m_at	threonyl-tRNA synthetase	Synpcc7942_2606	Q31JY3
+syc1519-m_at	Uncharacterized protein	Synpcc7942_2605	Q31JY4
+syc1520-h_at	cytochrome c oxidase subunit III	Synpcc7942_2604	Q31JY5
+syc1521-h_at	cytochrome c oxidase subunit I	Synpcc7942_2603	Q31JY6
+syc1522-h_at	cytochrome c oxidase subunit II	Synpcc7942_2602	Q31JY7
+syc1523-m_at	hypothetical protein	Synpcc7942_2601	Q31JY8
+syc1524-m_at	cytochrome c oxidase folding protein	Synpcc7942_2600	Q31JY9
+syc1531-h_at	Uncharacterized protein	Synpcc7942_2593	Q31JZ6
+syc1533-h_at	hypothetical protein	Synpcc7942_2591	Q31JZ8
+syc1534-h_at	similar to pilin-like protein	Synpcc7942_2590	Q31JZ9
+syc1536-m_at	3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD	Synpcc7942_2588	Q31K01
+syc1537-m_at	Uncharacterized protein	Synpcc7942_2587	Q31K02
+syc1540-h_at	probable short chain dehydrogenase  cell-cell signaling protein, C-factor	Synpcc7942_2584	Q31K05
+syc1543-h_at	ferredoxin petF-like protein	Synpcc7942_2581	Q31K08
+syc1546-m_at	hypothetical protein	Synpcc7942_2578	O33700
+syc1547-m_at	hypothetical protein	Synpcc7942_2577	O33701
+syc1554-m_at	tyrosyl tRNA synthetase	Synpcc7942_2570	Q31K19
+syc1555-m_at	orotidine 5' monophosphate decarboxylase	Synpcc7942_2569	Q31K20
+syc1558-h_at	peptidyl-prolyl cis-trans isomerase	Synpcc7942_2566	Q31K23
+syc1559-m_at	elongation factor P	Synpcc7942_2565	Q54760
+syc1560-m_at	biotin carboxyl carrier protein of acetyl-CoA carboxylase	Synpcc7942_2564	Q54761
+syc1565-m_at	50S ribosomal protein L9	Synpcc7942_2559	Q31K30
+syc1567-m_at	NAD-reducing hydrogenase HoxS gamma subunit	Synpcc7942_2557	Q31K32
+syc1568-m_at	NAD-reducing hydrogenase HoxS delta subunit	Synpcc7942_2556	Q31K33
+syc1569-m_at	NAD-reducing hydrogenase HoxS beta subunit	Synpcc7942_2555	Q31K34
+syc1570-m_at	hypothetical protein	Synpcc7942_2554	Q31K35
+syc1571-m_at	putative hydrogenase expression/formation protein HypA1	Synpcc7942_2553	Q31K36
+syc1572-m_at	hydrogenase isoenzymes formation protein HypB	Synpcc7942_2552	Q31K37
+syc1573-m_at	hydrogenase maturation protein HypF	Synpcc7942_2551	Q31K38
+syc1574-m_at	hydrogenase maturation protein HypC	syc1560_d	Q5N1S0
+syc1577-h_at	Uncharacterized protein	Synpcc7942_2547	Q31K42
+syc1578-h_at	hypothetical protein	Synpcc7942_2546	Q31K43
+syc1579-h_at	aspartate aminotransferase	Synpcc7942_2545	Q31K44
+syc1581-m_at	DNA polymerase bacteriophage-type  Uracil DNA glycosylase superfamily	Synpcc7942_2543	Q31K46
+syc1582-m_at	putative cytochrome C6-2	Synpcc7942_2542	Q31K47
+syc1585-m_at	hypothetical protein  thioredoxin like	Synpcc7942_2539	Q31K50
+syc1589-h_at	hypothetical protein	Synpcc7942_2535	Q31K54
+syc1591-h_at	hypothetical protein	Synpcc7942_2533	Q31K56
+syc1592-m_at	hypothetical protein	Synpcc7942_2532	Q31K57
+syc1597-h_at	ATP-dependent protease ATPase subunit	Synpcc7942_2526	O34126
+syc1599-h_at	trigger factor  FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase)	Synpcc7942_2524	Q935Z3
+syc1601-m_at	hypothetical protein	Synpcc7942_2520	Q31K69
+syc1608-m_at	hypothetical protein	Synpcc7942_2512	Q935Y2
+syc1613-m_at	Uncharacterized protein	Synpcc7942_2507	Q31K82
+syc1614-m_at	phosphoadenosine phosphosulfate reductase	Synpcc7942_2506	Q55309
+syc1617-m_at	light-dependent NADPH-protochlorophyllide oxidoreductase	Synpcc7942_2503	Q935X4
+syc1620-m_at	hypothetical protein	Synpcc7942_2500	Q31K89
+syc1621-m_at	hypothetical protein	Synpcc7942_2499	Q54705
+syc1622-m_at	similar to flotillin	Synpcc7942_2498	Q54704
+syc1623-m_at	nucleoside diphosphate kinase	Synpcc7942_2497	P50590
+syc1633-h_at	hypothetical protein	Synpcc7942_2487	Q8GIT3
+syc1635-m_at	Uncharacterized protein	Synpcc7942_2484	Q8GIT0
+syc1636-m_at	hypothetical protein	Synpcc7942_2483	Q31KA6
+syc1641-h_at	hypothetical protein	Synpcc7942_2476	Q31KB3
+syc1642-h_at	L-argininosuccinate lyase	Synpcc7942_2475	Q8GIS1
+syc1643-h_at	hypothetical protein	Synpcc7942_2474	Q8GIS0
+syc1644-h_at	hypothetical protein	Synpcc7942_2473	Q8GIR9
+syc1645-h_at	signal recognition particle protein	Synpcc7942_2472	Q31KB7
+syc1646-h_at	N utilization substance protein B  transcription antiterminator NusB	Synpcc7942_2471	Q8GIR7
+syc1652-m_at	hypothetical protein	Synpcc7942_2465	Q31KC4
+syc1654-m_at	S-adenosylmethionine synthetase	Synpcc7942_2463	Q31KC6
+syc1656-m_at	hypothetical protein	Synpcc7942_2461	Q31KC8
+syc1659-h_at	competence protein ComE	Synpcc7942_2458	Q31KD1
+syc1660-h_at	glycyl-tRNA synthetase alpha chain	Synpcc7942_2457	Q31KD2
+syc1663-m_at	adenine phosphoribosyltransferase	Synpcc7942_2454	Q31KD5
+syc1664-m_at	oligopeptides ABC transporter permease protein	syc1651_d	Q5N1H9
+syc1665-m_at	type IV pilus assembly protein PilM	Synpcc7942_2453	Q31KD6
+syc1666-m_at	hypotetical protein	Synpcc7942_2452	Q5N1H7
+syc1667-m_at	C terminus of hypothetical protein slr1275 (pilN)	Synpcc7942_2452	Q5N1H7
+syc1668-m_at	pilus assembly protein PilO	Synpcc7942_2451	Q31KD8
+syc1669-m_at	bifunctional pilus assembly protein PilQ/type II secretion pathway protein D	Synpcc7942_2450	Q31KD9
+syc1670-h_at	antioxidant protein]  rehydrin	Synpcc7942_2449	Q31KE0
+syc1671-h_at	GTP-binding protein HflX	Synpcc7942_2448	Q31KE1
+syc1672-h_at	hypothetical protein	Synpcc7942_2447	Q31KE2
+syc1674-m_at	periplasmic phosphate-binding protein of ABC transporter	Synpcc7942_2445	P39665
+syc1679-m_at	polyribonucleotide nucleotidyltransferase	Synpcc7942_2440	Q31KE9
+syc1686-h_at	hypothetical protein	Synpcc7942_2433	Q31KF6
+syc1687-h_at	hypothetical protein	Synpcc7942_2432	Q31KF7
+syc1688-m_at	hypothetical protein	Synpcc7942_2431	Q31KF8
+syc1692-h_at	thiosulfate sulfurtransferase	Synpcc7942_2427	Q31KG2
+syc1694-m_at	chaperon-like protein for quinone binding in photosystem II	Synpcc7942_2425	Q31KG4
+syc1695-m_at	hypothetical protein	Synpcc7942_2424	Q31KG5
+syc1697-m_at	Uncharacterized protein	Synpcc7942_2422	Q31KG7
+syc1700-h_at	hypothetical protein	Synpcc7942_2419	Q31KH0
+syc1705-m_at	hypothetical protein, putative methlytransferase	Synpcc7942_2414	Q31KH5
+syc1706-m_at	erthyrocyte band 7 integral membrane protein, protein 7.2B, stomatin	Synpcc7942_2412	Q31KH7
+syc1707-h_at	hypothetical protein	Synpcc7942_2411	Q31KH8
+syc1710-m_at	hypothetical protein	Synpcc7942_2408	Q31KI1
+syc1711-h_at	hypothetical protein	Synpcc7942_2407	Q31KI2
+syc1712-h_at	FAD dependent oxidoreductase	Synpcc7942_2406	Q31KI3
+syc1714-h_at	hypothetical protein	Synpcc7942_2404	Q31KI5
+syc1716-h_at	hypothetical protein	Synpcc7942_2402	Q31KI7
+syc1719-m_at	hypothetical protein	Synpcc7942_2399	Q31KJ0
+syc1721-m_at	hypothetical protein	Synpcc7942_2397	Q31KJ2
+syc1722-m_at	hypothetical protein	Synpcc7942_2396	Q31KJ3
+syc1724-m_at	Na+/H+ antiporter	Synpcc7942_2394	Q8L1E4
+syc1725-h_at	glutamyl-tRNA synthetase	Synpcc7942_2393	Q8L1E5
+syc1729-m_at	hypothetical protein	Synpcc7942_2389	Q31KK0
+syc1731-m_at	hypothetical protein	Synpcc7942_2388	Q31KK1
+syc1732-m_at	hypothetical protein	Synpcc7942_2387	Q31KK2
+syc1733-h_at	hydrogenase isoenzymes formation protein HypD	Synpcc7942_2386	Q31KK3
+syc1734-h_at	hypothetical protein	Synpcc7942_2385	Q31KK4
+syc1735-h_at	pyruvate flavodoxin oxidoreductase	Synpcc7942_2384	Q31KK5
+syc1739-m_at	hypothetical protein	Synpcc7942_2380	Q31KK9
+syc1741-h_at	cell division protein FtsZ	Synpcc7942_2378	O85785
+syc1742-h_at	hypothetical protein	Synpcc7942_2377	Q31KL2
+syc1749-h_at	RND multidrug efflux transporter  acriflavin resistance protein	Synpcc7942_2369	Q31KM0
+syc1751-m_at	Uncharacterized protein	Synpcc7942_2367	Q31KM2
+syc1752-h_at	peptide-chain-release factor 3	Synpcc7942_2365	Q31KM4
+syc1755-h_at	solanesyl diphosphate synthase	Synpcc7942_2362	Q31KM7
+syc1757-h_at	N-acetylmuramoyl-L-alanine amidase	Synpcc7942_2360	Q31KM9
+syc1758-h_at	Na+/H+ antiporter	Synpcc7942_2359	Q31KN0
+syc1759-h_at	nitrilase homolog	Synpcc7942_2358	Q31KN1
+syc1763-m_at	FK506-binding protein  FKBP-type peptidyl-prolyl cis-trans isomerase, periplasmic protein	Synpcc7942_2354	Q31KN5
+syc1770-h_at	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	Synpcc7942_2348	Q31KP1
+syc1771-m_at	hypothetical protein	Synpcc7942_2347	Q31KP2
+syc1772-h_at	imidazoleglycerol-phosphate dehydratase	Synpcc7942_2346	Q31KP3
+syc1774-h_at	Uncharacterized protein	Synpcc7942_2344	Q31KP5
+syc1775-m_at	photosystem I PsaI protein	Synpcc7942_2343	P95823
+syc1776-m_at	photosystem I reaction center subunit XI	Synpcc7942_2342	P95822
+syc1778-h_at	GTP-binding protein engA	Synpcc7942_2340	Q31KP9
+syc1782-m_at	fructose-16-bisphosphatase	Synpcc7942_2335	Q59943
+syc1783-m_at	glucose-6-phosphate 1-dehydrogenase	Synpcc7942_2334	P29686
+syc1784-m_at	putative OxPPCycle protein OpcA	Synpcc7942_2333	Q54709
+syc1785-h_at	cytochrome b6-f complex subunit 4	Synpcc7942_2332	Q54710
+syc1787-m_at	carboxyl-terminal processing protease	Synpcc7942_2330	Q31KQ9
+syc1789-h_at	hypothetical protein, serine/threonine kinase	Synpcc7942_2328	Q31KR1
+syc1791-h_at	hypothetical protein	Synpcc7942_2326	Q31KR3
+syc1792-m_at	hypothetical protein	Synpcc7942_2325	Q31KR4
+syc1794-h_at	glutaredoxin	Synpcc7942_2323	Q31KR6
+syc1798-h_at	hypothetical protein	Synpcc7942_2319	P37371
+syc1799-h_at	hypothetical protein	Synpcc7942_2318	P37372
+syc1800-m_at	copper-transporting P-type ATPase CtaA	Synpcc7942_2317	P37385
+syc1801-h_at	ATP synthase epsilon subunit	Synpcc7942_2316	P0A2Z8
+syc1802-h_at	ATP synthase beta chain of F1	Synpcc7942_2315	Q31KS4
+syc1805-h_at	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl -undecaprenol N-acetylglucosamine transferase	Synpcc7942_2312	Q31KS7
+syc1807-m_at	hypothetical protein, L-2-diaminobutyrate decarboxylase	Synpcc7942_2310	Q31KS9
+syc1808-m_at	thioredoxin peroxidase	Synpcc7942_2309	Q7X4K8
+syc1809-h_at	aminomethyltransferase	Synpcc7942_2308	Q31KT1
+syc1810-h_at	Uncharacterized protein	Synpcc7942_2307	Q31KT2
+syc1815-h_at	hypothetical protein	Synpcc7942_2300	Q31KT9
+syc1816-h_at	30S ribosomal protein S15	Synpcc7942_2299	Q31KU0
+syc1818-m_at	transaldolase	Synpcc7942_2297	Q31KU2
+syc1825-m_at	hypothetical protein	Synpcc7942_2290	Q31KU9
+syc1827-m_at	hypothetical protein	Synpcc7942_2288	Q31KV1
+syc1831-m_at	2-hydroxy-6-oxohepta-24-dienoate hydrolase	Synpcc7942_2284	Q31KV5
+syc1835-m_at	hypothetical protein	Synpcc7942_2280	Q31KV9
+syc1836-h_at	ammonium/methylammonium permease	Synpcc7942_2279	Q31KW0
+syc1840-h_at	Magnesium protoporphyrin IX chelatase subunit D	Synpcc7942_2274	O07345
+syc1848-h_at	gamma-glutamyl phosphate reductase	Synpcc7942_2265	Q31KX4
+syc1849-m_at	transcriptional regulator  LuxR/NarL type-1 family	Synpcc7942_2264	Q31KX5
+syc1856-m_at	hypothetical protein	Synpcc7942_2257	Q31KY2
+syc1859-m_at	hypothetical protein	Synpcc7942_2254	Q31KY5
+syc1860-m_at	hypothetical protein	Synpcc7942_2253	Q31KY6
+syc1864-m_at	hypothetical protein	Synpcc7942_2249	Q31KZ0
+syc1866-h_at	DNA mismatch repair protein	Synpcc7942_2247	Q31KZ2
+syc1867-h_at	hypothetical protein	Synpcc7942_2246	Q31KZ3
+syc1868-m_at	photosystem II PsbZ protein	Synpcc7942_2245	Q31KZ4
+syc1872-h_at	hypothetical protein	Synpcc7942_2241	Q31KZ8
+syc1875-m_at	glucose transport protein	Synpcc7942_2238	Q31L01
+syc1882-m_at	50S ribosomal protein L23	Synpcc7942_2230	Q31L09
+syc1883-m_at	50S ribosomal protein L2	Synpcc7942_2229	Q31L10
+syc1884-m_at	30S ribosomal protein S19	Synpcc7942_2228	Q31L11
+syc1885-m_at	50S ribosomal protein L22	Synpcc7942_2227	Q31L12
+syc1893-m_at	30S ribosomal protein S8	Synpcc7942_2219	Q31L20
+syc1894-m_at	50S ribosomal protein L6	Synpcc7942_2218	Q31L21
+syc1895-m_at	50S ribosomal protein L18	Synpcc7942_2217	Q31L22
+syc1903-m_at	RNA polymerase alpha subunit	Synpcc7942_2209	Q31L30
+syc1907-m_at	30S ribosomal protein S9	Synpcc7942_2205	Q31L34
+syc1908-m_at	50S ribosomal protein L31	Synpcc7942_2204	Q31L35
+syc1912-m_at	hypothetical protein	Synpcc7942_2200	Q31L39
+syc1915-h_at	hypothetical protein	Synpcc7942_2197	Q31L42
+syc1916-m_at	Uncharacterized protein	Synpcc7942_2196	Q31L43
+syc1917-m_at	guanylyl cyclase	Synpcc7942_2195	Q31L44
+syc1919-m_at	hypothetical protein	Synpcc7942_2193	Q31L46
+syc1922-h_at	hypothetical protein	Synpcc7942_2190	Q31L49
+syc1923-m_at	salicylate biosynthesis isochorismate synthase	Synpcc7942_2188	Q31L51
+syc1926-h_at	hypothetical protein	Synpcc7942_2185	Q31L54
+syc1929-m_at	hypothetical protein	Synpcc7942_2181	Q31L58
+syc1930-m_at	bacterioferritin comigratory protein	Synpcc7942_2180	Q31L59
+syc1931-m_at	hypothetical protein	Synpcc7942_2179	Q31L60
+syc1932-m_at	hypothetical protein	Synpcc7942_2178	Q31L61
+syc1937-h_at	Uncharacterized protein	Synpcc7942_2173	Q31L66
+syc1938-h_at	hypothetical protein	Synpcc7942_2172	Q31L67
+syc1939-m_at	nutrient-stress induced protein  starvation induced DNA binding protein	Synpcc7942_2171	Q55024
+syc1947-h_at	hypothetical protein	Synpcc7942_2163	Q31L76
+syc1948-h_at	Uncharacterized protein	Synpcc7942_2161	Q31L78
+syc1949-h_at	soluble hydrogenase 42 kD subunit  serine:pyruvate/alanine:glyoxylate aminotransferase	Synpcc7942_2160	Q31L79
+syc1951-h_at	allophycocyanin beta-18 subunit	Synpcc7942_2158	O50209
+syc1953-m_at	glutamate--ammonia ligase	Synpcc7942_2156	Q31L83
+syc1954-m_at	hypothetical protein	Synpcc7942_2155	Q31L84
+syc1955-m_at	hypothetical protein	Synpcc7942_2152	Q31L87
+syc1956-m_at	UDP-glucose-beta-D-glucan glucosyltransferase  cellulose synthase catalytic subunit	Synpcc7942_2151	Q31L88
+syc1957-h_at	probable hydrolase	Synpcc7942_2150	Q31L89
+syc1960-h_at	hypothetical protein	Synpcc7942_2147	Q31L92
+syc1962-m_at	hypothetical protein	Synpcc7942_2144	Q31L95
+syc1963-h_at	tryptophan synthase beta subunit	Synpcc7942_2143	Q31L96
+syc1969-h_at	Uncharacterized protein	Synpcc7942_2138	Q31LA1
+syc1970-h_at	Magnesium protoporphyrin IX chelatase subunit H	Synpcc7942_2137	Q31LA2
+syc1971-m_at	dihydrodipicolinate reductase	Synpcc7942_2136	Q31LA3
+syc1973-m_at	N-acetylmuramoyl-L-alanine amidase	Synpcc7942_2134	Q31LA5
+syc1975-h_at	MrsA protein homolog  phosphomannomutase	Synpcc7942_2132	Q31LA7
+syc1976-m_at	probable soluble lytic transglycosylase	Synpcc7942_2131	Q31LA8
+syc1980-h_at	phycobilisome degradation protein	Synpcc7942_2127	P35087
+syc1983-m_at	histone deacetylase family protein  acetylpolyamine aminohydolase	Synpcc7942_2124	Q31LB5
+syc1984-m_at	anthranilate phosphoribosyltransferase	Synpcc7942_2123	Q31LB6
+syc1985-m_at	carbamoyl-phosphate synthase small chain	Synpcc7942_2122	Q31LB7
+syc1986-m_at	similar to anti-sigma f factor antagonist	Synpcc7942_2121	Q31LB8
+syc1989-m_at	hypothetical protein	Synpcc7942_2118	Q31LC1
+syc1993-m_at	hypothetical protein	Synpcc7942_2115	Q31LC4
+syc1997-h_at	glucokinase  xylose repressor    transcription factor ROK family	Synpcc7942_2111	Q31LC8
+syc1999-h_at	ATP-binding protein of ABC transporter	Synpcc7942_2109	Q31LD0
+syc2001-m_at	Uncharacterized protein	syc1985_d	Q5N0J5
+syc2002-m_at	putative cyanate ABC transporter substrate-binding protein	Synpcc7942_2107	Q31LD2
+syc2006-m_at	0	Synpcc7942_2103	Q31LD6
+syc2014-h_at	0	Synpcc7942_2095	Q31LE4
+syc2019-h_at	homoserine dehydrogenase	Synpcc7942_2090	Q31LE9
+syc2020-m_at	hypothetical protein	Synpcc7942_2089	Q31LF0
+syc2021-h_at	Uncharacterized protein	Synpcc7942_2088	Q31LF1
+syc2023-m_at	hypothetical protein	Synpcc7942_2086	Q31LF3
+syc2024-m_at	probable anion transporting ATPase	Synpcc7942_2085	Q31LF4
+syc2025-m_at	chlorophyll a synthase	Synpcc7942_2084	Q31LF5
+syc2027-m_at	elongation factor EF-G	Synpcc7942_2082	Q31LF7
+syc2029-h_at	probable phosphoketolase 1	Synpcc7942_2080	Q31LF9
+syc2030-m_at	acetate kinase	Synpcc7942_2079	Q31LG0
+syc2031-m_at	phosphoglycerate mutase	Synpcc7942_2078	Q31LG1
+syc2035-h_at	DnaJ protein	Synpcc7942_2074	Q31LG5
+syc2037-h_at	heat shock protein GrpE	Synpcc7942_2072	Q59984
+syc2038-m_at	type IV pilus assembly protein PilB  general secretion pathway protein E	Synpcc7942_2071	Q31LG8
+syc2039-m_at	twitching motility protein PilT	Synpcc7942_2070	Q31LG9
+syc2040-m_at	type IV pilus assembly protein PilC	Synpcc7942_2069	Q31LH0
+syc2045-h_at	phenylalanyl-tRNA synthetase alpha chain	Synpcc7942_2064	Q31LH5
+syc2046-m_at	acid phosphatase  stationary-phase survival protein SurE homolog	Synpcc7942_2063	Q31LH6
+syc2048-m_at	PII interaction protein X	Synpcc7942_2061	Q7X386
+syc2049-m_at	hypothetical protein	Synpcc7942_2060	Q31LH9
+syc2050-m_at	hypothetical protein	Synpcc7942_2059	Q31LI0
+syc2051-m_at	pyrroline-5-carboxylate reductase	Synpcc7942_2058	Q31LI1
+syc2052-h_at	hypothetical protein	Synpcc7942_2057	Q31LI2
+syc2053-h_at	hypothetical protein	Synpcc7942_2056	Q31LI3
+syc2056-h_at	probable peptidase	Synpcc7942_2053	Q31LI6
+syc2057-m_at	peptide ABC transporter permease protein	Synpcc7942_2052	Q31LI7
+syc2059-h_at	hypothetical protein	Synpcc7942_2050	Q31LI9
+syc2067-m_at	Uncharacterized protein	Synpcc7942_2042	Q31LJ7
+syc2068-h_at	Uncharacterized protein	syc2052_c	Q5N0C8
+syc2069-h_at	virulence factor MviN homolog.	Synpcc7942_2041	Q31LJ8
+syc2070-m_at	sugar fermentation stimulation protein  Transcription factor SfsA family	Synpcc7942_2040	Q31LJ9
+syc2072-m_at	transcription regulator CRO/Cl type-3 family	Synpcc7942_2038	Q31LK1
+syc2075-m_at	Uncharacterized protein	Synpcc7942_2035	Q31LK4
+syc2077-h_at	hypothetical protein, similar to glycosyl transferase	Synpcc7942_2034	Q31LK5
+syc2078-h_at	hypothetical protein	Synpcc7942_2033	Q31LK6
+syc2079-h_at	multidrug-efflux transporter  quinolene resistance protein NorA	Synpcc7942_2032	Q31LK7
+syc2080-m_at	hypothetical protein	Synpcc7942_2031	Q31LK8
+syc2081-m_at	phycobilisome rod-core linker polypeptide Lrc, C-phycocyanin associated	Synpcc7942_2030	Q31LK9
+syc2082-h_at	glucose-6-phosphate isomerase	Synpcc7942_2029	Q31LL0
+syc2084-h_at	probable glycosly transferase	Synpcc7942_2027	Q31LL2
+syc2089-m_at	N utilization substance protein A   transcription termination-antitermination factor	Synpcc7942_2022	Q31LL7
+syc2090-m_at	conserved hypothetical protein; conserved gene cluster	Synpcc7942_2021	Q31LL8
+syc2099-h_at	similar to stage II sporulation protein D	Synpcc7942_2012	Q31LM7
+syc2101-m_at	cytochrome c550	Synpcc7942_2010	Q31LM9
+syc2107-h_at	group 3 RNA polymerase ECF-type sigma factor	Synpcc7942_2004	Q31LN5
+syc2108-h_at	Uncharacterized protein	Synpcc7942_2003	Q31LN6
+syc2109-h_at	Uncharacterized protein	Synpcc7942_2002	Q31LN7
+syc2113-m_at	RRM-type RNA-binding protein	Synpcc7942_1999	Q31LP0
+syc2114-h_at	hypothetical protein	Synpcc7942_1998	Q31LP1
+syc2116-m_at	Uncharacterized protein	Synpcc7942_1996	Q31LP3
+syc2120-m_at	probable translation initiation factor eIF-2B alpha subunit	Synpcc7942_1992	Q31LP7
+syc2121-m_at	hypothetical protein	Synpcc7942_1991	Q31LP8
+syc2124-m_at	hypothetical protein	Synpcc7942_1988	Q31LQ1
+syc2125-h_at	hypothetical protein	Synpcc7942_1987	Q31LQ2
+syc2129-h_at	phytoene dehydrogenase (phytoene desaturase)	Synpcc7942_1983	P26294
+syc2132-h_at	LysR family transcriptional regulator	Synpcc7942_1980	Q99QJ5
+syc2134-m_at	Trx (thioredoxin m)	Synpcc7942_1978	Q9ALA7
+syc2136-m_at	NADH dehydrogenase subunit 4	Synpcc7942_1976	Q31LR3
+syc2142-h_at	hypothetical protein	Synpcc7942_1969	Q31LS0
+syc2144-h_at	bacitracin resistance protein	Synpcc7942_1967	Q31LS2
+syc2145-h_at	hypothetical protein	Synpcc7942_1966	Q31LS3
+syc2146-h_at	exopolyphosphatase	Synpcc7942_1965	Q31LS4
+syc2147-m_at	4-hydroxybenzoate-octaprenyl transferase	Synpcc7942_1964	Q31LS5
+syc2151-m_at	hypothetical protein	Synpcc7942_1960	Q31LS9
+syc2152-h_at	proline-tRNA ligase	Synpcc7942_1959	Q31LT0
+syc2153-m_at	hypothetical protein	Synpcc7942_1958	Q31LT1
+syc2155-h_at	acetyl-CoA carboxylase beta subunit	Synpcc7942_1956	Q54776
+syc2156-m_at	CTP synthetase	Synpcc7942_1954	Q54775
+syc2160-h_at	hypothetical protein	Synpcc7942_1950	Q31LT9
+syc2161-h_at	hypothetical protein	Synpcc7942_1949	Q54771
+syc2164-m_at	hypothetical protein	Synpcc7942_1946	Q31LU3
+syc2166-h_at	pyruvate dehydrogenase E1 component,	Synpcc7942_1944	Q31LU5
+syc2174-m_at	hypothetical protein	Synpcc7942_1936	Q31LV3
+syc2177-h_at	isopentenyl-dephosphate delta-isomerase	Synpcc7942_1933	Q31LV6
+syc2178-h_at	hypothetical protein	Synpcc7942_1932	Q31LV7
+syc2183-h_at	diaminopimelate epimerase	Synpcc7942_1927	Q31LW2
+syc2185-m_at	probable peptidase	Synpcc7942_1925	Q31LW4
+syc2187-m_at	group3 RNA polymerase ECF-type sigma factor SigG	Synpcc7942_1923	Q31LW6
+syc2188-m_at	hypothetical protein	Synpcc7942_1922	Q31LW7
+syc2195-m_at	chorismate mutase	Synpcc7942_1915	Q31LX4
+syc2196-h_at	hypothetical protein	Synpcc7942_1914	Q31LX5
+syc2197-h_at	Uncharacterized protein	Synpcc7942_1913	Q31LX6
+syc2200-m_at	protein conferring resistance to acetazolamide Zam	Synpcc7942_1911	Q31LX8
+syc2201-m_at	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	Synpcc7942_1910	Q31LX9
+syc2204-m_at	aerobic Mg-protoporphyrin IX monomethylester cyclase	Synpcc7942_1907	Q31LY2
+syc2205-m_at	hypothetical protein	Synpcc7942_1906	Q31LY3
+syc2206-m_at	toxin secretion ABC transporter ATP-binding protein	Synpcc7942_1905	Q31LY4
+syc2211-h_at	dCTP deaminase	Synpcc7942_1900	Q31LY9
+syc2212-m_at	hypothetical protein	Synpcc7942_1899	Q31LZ0
+syc2213-m_at	3-isopropylmalate dehydratase large subunit	Synpcc7942_1898	Q31LZ1
+syc2214-m_at	putative transcripton factor DevT homolog	Synpcc7942_1897	Q31LZ2
+syc2215-m_at	arginine biosynthesis bifunctional protein ArgJ	Synpcc7942_1896	Q31LZ3
+syc2216-h_at	hypothetical protein	Synpcc7942_1895	Q31LZ4
+syc2219-h_at	hypothetical protein	Synpcc7942_1892	Q31LZ7
+syc2220-h_at	A negative regulator for circadian gene expression	Synpcc7942_1891	Q31LZ8
+syc2222-m_at	hypothetical protein	Synpcc7942_1889	Q31M00
+syc2225-h_at	single-strand-DNA-specific exonuclease RecJ	Synpcc7942_1886	Q31M03
+syc2226-m_at	CbbY family protein	Synpcc7942_1885	Q31M04
+syc2227-m_at	probable cytidyltransferase	Synpcc7942_1884	Q31M05
+syc2229-m_at	photosystem II 12 kD extrinsic protein (psbU)	Synpcc7942_1882	Q31M07
+syc2230-m_at	L-aspartate oxidase	Synpcc7942_1881	Q31M08
+syc2233-m_at	transglutaminase family protein  hypothetical protein	Synpcc7942_1877	Q31M12
+syc2234-m_at	hypothetical protein	Synpcc7942_1876	Q31M13
+syc2239-m_at	hypothetical protein, probable RND efflux membrane fusion protein	Synpcc7942_1870	Q31M19
+syc2243-m_at	hypothetical protein	Synpcc7942_1866	Q31M23
+syc2244-h_at	hypothetical protein	Synpcc7942_1865	Q31M24
+syc2245-h_at	hypothetical protein	Synpcc7942_1864	Q31M25
+syc2247-h_at	Uncharacterized protein	Synpcc7942_1862	Q31M27
+syc2253-h_at	putative cytidine and deoxycytidylate deaminase	Synpcc7942_1856	Q31M33
+syc2260-h_at	group2 RNA polymerase sigma factor	Synpcc7942_1849	Q31M40
+syc2265-m_at	hypothetical protein	Synpcc7942_1844	Q8GJN6
+syc2266-m_at	hypothetical protein	Synpcc7942_1843	Q31M46
+syc2271-m_at	light-independent protochlorophyllide reductase subunit B	Synpcc7942_1838	Q8GJN0
+syc2272-m_at	hypothetical protein	Synpcc7942_1837	Q31M52
+syc2273-m_at	hypothetical protein	Synpcc7942_1836	Q31M53
+syc2275-h_at	Putative uncharacterized protein SEN0013	Synpcc7942_1834	Q8GJM6
+syc2277-m_at	hypothetical protein	Synpcc7942_1832	Q31M57
+syc2278-m_at	inosine-5'-monophosphate dehydrogenase	Synpcc7942_1831	Q31M58
+syc2279-m_at	thioredoxin	Synpcc7942_1830	P12243
+syc2281-h_at	hypothetical protein	Synpcc7942_1828	Q8GJL9
+syc2282-h_at	Uncharacterized protein	Synpcc7942_1827	Q31M62
+syc2285-m_at	hypothetical protein	Synpcc7942_1824	Q8GJL5
+syc2288-h_at	hypothetical protein	Synpcc7942_1821	Q8GJL3
+syc2289-m_at	hypothetical protein	Synpcc7942_1820	Q31M69
+syc2291-m_at	hypothetical protein	Synpcc7942_1818	Q31M71
+syc2297-h_at	hypothetical protein	Synpcc7942_1811	Q31M78
+syc2305-m_at	Uncharacterized protein	Synpcc7942_1804	Q31M85
+syc2309-h_at	hypothetical protein	Synpcc7942_1800	Q31M89
+syc2311-h_at	Uncharacterized protein	Synpcc7942_1798	Q31M91
+syc2312-h_at	Uncharacterized protein	Synpcc7942_1797	Q31M92
+syc2315-h_at	aspartate transaminase	Synpcc7942_1794	Q31M95
+syc2318-m_at	hypothetical protein	Synpcc7942_1791	Q31M98
+syc2320-h_at	DnaJ protein	Synpcc7942_1789	Q31MA0
+syc2322-m_at	nitrogen fixation protein NifU and related protein	Synpcc7942_1787	Q31MA2
+syc2323-m_at	hypothetical protein YCF51	Synpcc7942_1786	Q31MA3
+syc2325-h_at	group3 RNA polymerase sigma factor SigF2	Synpcc7942_1784	Q31MA5
+syc2326-h_at	hypothetical protein	Synpcc7942_1783	Q31MA6
+syc2332-h_at	hypothetical protein	Synpcc7942_1777	Q31MB2
+syc2337-h_at	signal recognition particle protein	Synpcc7942_1771	Q55311
+syc2339-h_at	Uncharacterized protein	Synpcc7942_1769	Q31MC0
+syc2340-h_at	Uncharacterized protein	Synpcc7942_1768	Q31MC1
+syc2348-h_at	alanine dehydrogenase	Synpcc7942_1760	Q31MC9
+syc2349-m_at	hypothetical protein	Synpcc7942_1758	Q31MD1
+syc2351-h_at	hypothetical protein	Synpcc7942_1755	Q31MD4
+syc2355-m_at	hypothetical protein	Synpcc7942_1751	Q31MD8
+syc2356-m_at	hypothetical protein YCF35	Synpcc7942_1750	Q31MD9
+syc2358-m_at	hypothetical protein	Synpcc7942_1748	Q31ME1
+syc2359-m_at	hypothetical protein, probable oxidoreductase	Synpcc7942_1747	Q31ME2
+syc2361-m_at	hypothetical protein	Synpcc7942_1745	Q31ME4
+syc2365-h_at	UDP-N-acetylmuramate-alanine ligase	Synpcc7942_1741	P95836
+syc2366-m_at	UDP-N-acetylenolpyruvoylglucosamine reductase	Synpcc7942_1740	P95837
+syc2370-h_at	ABC transporter ATP-binding protein	Synpcc7942_1736	Q31MF3
+syc2374-m_at	hypothetical protein	Synpcc7942_1732	Q31MF7
+syc2377-h_at	potassium-transporting ATPase D chain	Synpcc7942_1729	Q31MG0
+syc2378-h_at	Uncharacterized protein	Synpcc7942_1728	Q31MG1
+syc2379-h_at	hypothetical protein	Synpcc7942_1727	Q31MG2
+syc2380-m_at	lipoprotein signal peptidase	Synpcc7942_1726	Q31MG3
+syc2386-m_at	hypothetical protein	Synpcc7942_1720	Q31MG9
+syc2388-m_at	glycolate oxidase subunit GlcE	Synpcc7942_1718	Q31MH1
+syc2392-m_at	homoserine O-acetyltransferase	Synpcc7942_1714	Q31MH5
+syc2395-h_at	hypothetical protein	Synpcc7942_1711	Q31MH8
+syc2398-m_at	oligopeptidase A	Synpcc7942_1708	Q31MI1
+syc2400-h_at	hypothetical protein	Synpcc7942_1706	Q31MI3
+syc2402-h_at	Uncharacterized protein	Synpcc7942_1704	Q31MI5
+syc2405-h_at	GDP-fucose synthetase  NAD dependent epimerase/dehydratase	Synpcc7942_1700	Q31MI9
+syc2410-m_at	hypothetical protein	Synpcc7942_1695	Q31MJ4
+syc2411-h_at	DNA gyrase A subunit	Synpcc7942_1694	Q31MJ5
+syc2422-h_at	hypothetical protein	Synpcc7942_1683	P27368
+syc2427-h_at	hypothetical protein	Synpcc7942_1678	Q31ML1
+syc2429-m_at	Uncharacterized protein	Synpcc7942_1676	Q31ML3
+syc2434-h_at	potassium-transporting ATPase C chain	Synpcc7942_1671	Q31ML8
+syc2435-h_at	potassium-transporting ATPase B chain	Synpcc7942_1669	Q31MM0
+syc2436-h_at	potassium-transporting ATPase A chain	Synpcc7942_1668	Q31MM1
+syc2437-h_at	UDP-N-acetylmuramoylalanine--D-glutamate ligase	Synpcc7942_1667	Q31MM2
+syc2438-h_at	hypothetical protein	Synpcc7942_1666	Q31MM3
+syc2443-h_at	potassium channel protein	Synpcc7942_1660	Q31MM9
+syc2445-h_at	hypothetical protein	Synpcc7942_1658	Q31MN1
+syc2446-m_at	catalase peroxidase	Synpcc7942_1656	Q31MN3
+syc2447-m_at	Uncharacterized protein	Synpcc7942_1654	Q31MN5
+syc2448-m_at	glycerol dehydrogenase	Synpcc7942_1653	Q31MN6
+syc2449-m_at	hypothetical protein, Fe-S oxidoreductase	Synpcc7942_1652	Q31MN7
+syc2453-h_at	transcription regulator Fur family  hypothetical protein	Synpcc7942_1648	Q31MP1
+syc2455-h_at	Uncharacterized protein	Synpcc7942_1646	Q31MP3
+syc2456-h_at	ribonuclease III	Synpcc7942_1645	Q31MP4
+syc2457-h_at	hypothetical protein	Synpcc7942_1644	Q31MP5
+syc2458-h_at	hypothetical protein	Synpcc7942_1643	Q31MP6
+syc2465-m_at	pterin-4a-carbinolamine dehydratase	Synpcc7942_1636	Q31MQ3
+syc2467-m_at	probable porin; major outer membrane protein	Synpcc7942_1464	Q31N75
+syc2469-m_at	cysteine synthase	Synpcc7942_1466	Q31N73
+syc2470-m_at	hypothetical protein	Synpcc7942_1467	Q31N72
+syc2483-h_at	amidotransferase HisH	Synpcc7942_1481	Q31N58
+syc2484-m_at	hypothetical protein	Synpcc7942_1482	Q31N57
+syc2486-h_at	UDP-N-acetylmuramoylalanyl-D-glutamate--2 6-diaminopimelate ligase	Synpcc7942_1484	Q31N55
+syc2488-h_at	hypothetical protein	Synpcc7942_1486	Q31N53
+syc2496-h_at	hypothetical protein	Synpcc7942_1494	Q31N45
+syc2497-h_at	hypothetical protein	Synpcc7942_1495	Q31N44
+syc2498-h_at	N-acetylglutamate kinase	Synpcc7942_1496	Q6V1L5
+syc2499-h_at	hypothetical protein	Synpcc7942_1497	Q31N42
+syc2501-h_at	probable methyltransferase	Synpcc7942_1500	Q31N39
+syc2502-h_at	D-3-phosphoglycerate dehydrogenase	Synpcc7942_1501	Q31N38
+syc2505-m_at	hypothetical protein	Synpcc7942_1504	Q31N35
+syc2507-h_at	hypothetical protein	Synpcc7942_1506	Q31N33
+syc2509-h_at	hypothetical protein	Synpcc7942_1508	Q31N31
+syc2512-h_at	hypothetical protein	Synpcc7942_1511	Q31N28
+syc2514-m_at	1-deoxy-d-xylulose 5-phosphate reductoisomerase	Synpcc7942_1513	Q31N26
+syc2515-m_at	probable pseudouridine synthase	Synpcc7942_1514	Q31N25
+syc2518-h_at	two-component sensor histidine kinase  hik34-like	Synpcc7942_1517	Q31N22
+syc2526-m_at	RNA polymerase beta prime subunit	Synpcc7942_1524	Q31N15
+syc2527-m_at	N-terminus of GTP-binding protein TypA homolog	Synpcc7942_1525	Q31N14
+syc2528-m_at	C-terminus of GTP-binding protein TypA homolog	syc2511_d	Q5MZ19
+syc2535-m_at	ATP-binding protein of molybdate ABC transporter	Synpcc7942_1532	Q31N07
+syc2537-m_at	hypothetical protein	Synpcc7942_1534	Q31N05
+syc2539-m_at	probable amidotransferase	Synpcc7942_1536	Q31N03
