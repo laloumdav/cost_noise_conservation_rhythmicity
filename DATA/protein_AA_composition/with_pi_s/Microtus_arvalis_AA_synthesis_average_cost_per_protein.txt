@@ -1,0 +1,6 @@
+Protein.ID	protein.length	aa.synthesis.average.cost_Akashi	aa.synthesis.average.cost_Wagner	protein.coding.genome.size
+A0A0N7IN28	189	27.43	29.75	1844
+A0A0P0H3I4	271	22.05	23.82	1844
+A0A0P0HGX9	646	24.78	27.01	1844
+A0A0P0I2H9	384	20.93	22.93	1844
+A0A0P0I7J3	354	23	24.69	1844

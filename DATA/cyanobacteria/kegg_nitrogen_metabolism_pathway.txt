@@ -1,0 +1,20 @@
+## KEGG Nitrogen metabolism pathway syf00910 - Synechococcus elongatus PCC7942
+# UniProt ID
+#
+UniProt.ID	Transcript.accession	gene.name
+P27134	syc0110-h_at	Synpcc7942_1447
+P38043	NA	NA
+P38043	NA	NA
+P38044	NA	NA
+P38045	NA	NA
+P38046	NA	NA
+P39458	NA	NA
+P39661	NA	NA
+Q31KN1	syc1759-h_at	Synpcc7942_2358
+Q31KU3	NA	NA
+Q31L83	syc1953-m_at	Synpcc7942_2156
+Q31LD2	syc2002-m_at	Synpcc7942_2107
+Q31M38	NA	NA
+Q31PU9	NA	NA
+Q31RW8	NA	NA
+Q59948	NA	NA
